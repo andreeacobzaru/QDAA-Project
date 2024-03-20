@@ -1,3 +1,4 @@
 BRScraper
 pandas
 numpy
+pickleshare
