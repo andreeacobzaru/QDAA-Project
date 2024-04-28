@@ -1,560 +1,560 @@
-PLAYER,AGE,TEAM,DATE,TYPE,METHOD,EXTENSION,LENGTH,VALUE,AAV,PG,SG,SF,PF,C
-Patty Mills,35,MIA,2024-03-06,Veteran Contract,Minimum Salary Exception,0,1.0,753186.0,753186.0,1,0,0,0,0
-Malik Shake Milton,27,NYK,2024-03-05,Veteran Contract,Minimum Salary Exception,0,1.0,552938.0,552938.0,0,1,0,0,0
-Kelly Olynyk,32,TOR,2024-03-04,Veteran Extension,Bird Exception,1,2.0,26250000.0,13125000.0,0,0,0,1,1
-Kendall Brown,20,IND,2024-03-03,Veteran Contract,Room-MLE,0,2.5,5522270.0,1840757.0,0,1,1,0,0
-A.J. Lawson,23,DAL,2024-03-03,Veteran Contract,MLE,0,4.0,7912022.0,1978006.0,0,1,0,0,0
-Mike Muscala,32,OKC,2024-03-02,Veteran Contract,Minimum Salary Exception,0,1.0,808297.0,808297.0,0,0,0,1,1
-Dominick Barlow,20,SAS,2024-03-02,Veteran Contract,Minimum Salary Exception,0,1.0,465975.0,465975.0,0,0,0,1,1
-Eugene Omoruyi,27,WAS,2024-03-01,Veteran Contract,MLE,0,2.0,3096970.0,1548485.0,0,0,1,0,0
-Trent Forrest,25,ATL,2024-02-29,Veteran Contract,Minimum Salary Exception,0,1.0,553151.0,553151.0,1,1,0,0,0
-Aleksej Pokusevski,22,CHA,2024-02-28,Veteran Contract,Minimum Salary Exception,0,2.0,2838428.0,1419214.0,0,0,0,1,1
-Stanley Umude,24,DET,2024-02-23,Veteran Contract,Minimum Salary Exception,0,2.0,2659153.0,1329577.0,0,1,0,0,0
-Lester Quinones,23,GSW,2024-02-22,Veteran Contract,Minimum Salary Exception,0,1.0,548815.0,548815.0,0,1,0,0,0
-Mike Conley,36,MIN,2024-02-22,Veteran Extension,Bird Exception,1,2.0,20750000.0,10375000.0,1,0,0,0,0
-Thaddeus Young,35,PHX,2024-02-20,Veteran Contract,Minimum Salary Exception,0,1.0,1010371.0,1010371.0,0,0,0,1,0
-Delon Wright,31,MIA,2024-02-18,Veteran Contract,Minimum Salary Exception,0,1.0,947205.0,947205.0,1,1,0,0,0
-Danilo Gallinari,35,MIL,2024-02-18,Veteran Contract,Minimum Salary Exception,0,1.0,1047112.0,1047112.0,0,0,1,1,0
-Jeremiah Robinson-Earl,23,NOP,2024-02-16,Veteran Contract,Minimum Salary Exception,0,2.0,2845813.0,1422907.0,0,0,0,1,0
-Kyle Lowry,37,PHI,2024-02-13,Veteran Contract,MLE,0,1.0,2795839.0,2795839.0,1,0,0,0,0
-Spencer Dinwiddie,30,LAL,2024-02-10,Veteran Contract,MLE,0,1.0,1554655.0,1554655.0,1,1,0,0,0
-Bismack Biyombo,31,OKC,2024-02-10,Veteran Contract,Minimum Salary Exception,0,1.0,1194075.0,1194075.0,0,0,0,0,1
-Lindy Waters III,26,OKC,2024-02-09,Veteran Contract,Minimum Salary Exception,0,1.5,2963065.0,1481533.0,0,1,0,0,0
-Keon Ellis,24,SAC,2024-02-09,Veteran Contract,Room-MLE,0,2.5,5105710.0,1701903.0,0,1,0,0,0
-James Johnson,36,IND,2024-02-08,Veteran Contract,Minimum Salary Exception,0,1.0,1230816.0,1230816.0,0,0,1,1,0
-Vince Williams Jr.,23,MEM,2024-01-10,Veteran Contract,MLE,0,3.5,9144340.0,2286085.0,0,0,1,0,0
-Miles McBride,23,NYK,2023-12-30,Veteran Extension,Bird Exception,1,3.0,13000000.0,4333333.0,1,0,0,0,0
-Juan Toscano-Anderson,30,SAC,2023-12-15,Veteran Contract,Minimum Salary Exception,0,1.0,1517989.0,1517989.0,0,0,1,0,0
-Taj Gibson,38,NYK,2023-12-15,Veteran Contract,Minimum Salary Exception,0,1.0,2241188.0,2241188.0,0,0,0,1,1
-James Johnson,36,IND,2023-12-15,Veteran Contract,Minimum Salary Exception,0,1.0,2241188.0,2241188.0,0,0,1,1,0
-Daniel Theis,31,LAC,2023-11-17,Veteran Contract,Minimum Salary Exception,0,1.0,2179511.0,2179511.0,0,0,0,0,1
-Joshua Primo,20,LAC,2023-11-15,Veteran Contract,Minimum Salary Exception,0,2.0,3961311.0,1980656.0,0,1,0,0,0
-Skylar Mays,26,POR,2023-11-12,Veteran Contract,Minimum Salary Exception,0,1.0,1863879.0,1863879.0,1,1,0,0,0
-Kevin Knox,24,DET,2023-11-08,Veteran Contract,Minimum Salary Exception,0,1.0,2144320.0,2144320.0,0,0,1,1,0
-Bismack Biyombo,31,MEM,2023-11-01,Veteran Contract,MLE,0,1.0,5000000.0,5000000.0,0,0,0,0,1
-Ish Smith,35,CHA,2023-10-24,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,1,0,0,0,0
-Onyeka Okongwu,22,ATL,2023-10-23,Rookie Scale Extension,Bird Exception,1,4.0,62000000.0,15500000.0,0,0,0,1,1
-Cole Anthony,23,ORL,2023-10-23,Rookie Scale Extension,Bird Exception,0,2.5,39100000.0,13033333.0,1,0,0,0,0
-Jaden McDaniels,23,MIN,2023-10-23,Rookie Scale Extension,Bird Exception,1,5.0,136000000.0,27200000.0,0,0,1,1,0
-Josh Green,22,DAL,2023-10-23,Rookie Scale Extension,Bird Exception,1,3.0,41000000.0,13666667.0,0,1,1,0,0
-Aaron Nesmith,24,IND,2023-10-23,Rookie Scale Extension,Bird Exception,1,3.0,33000000.0,11000000.0,0,0,1,0,0
-Deni Avdija,22,WAS,2023-10-23,Rookie Scale Extension,Bird Exception,1,4.0,55000000.0,13750000.0,0,1,1,0,0
-Zeke Nnaji,22,DEN,2023-10-23,Rookie Scale Extension,Bird Exception,1,3.5,32000001.0,8000000.0,0,0,0,1,0
-Zach Collins,25,SAS,2023-10-22,Veteran Extension,Bird Exception,1,2.0,34821696.0,17410848.0,0,0,0,1,1
-Dylan Windler,27,NYK,2023-10-21,Veteran Contract,Minimum Salary Exception,0,1.0,2165000.0,2165000.0,0,1,1,0,0
-Dru Smith,25,MIA,2023-10-21,Veteran Contract,Minimum Salary Exception,0,2.0,3922462.0,1961231.0,1,0,0,0,0
-Payton Pritchard,25,BOS,2023-10-10,Rookie Scale Extension,Bird Exception,1,4.0,30000000.0,7500000.0,1,0,0,0,0
-Reggie Bullock,32,HOU,2023-10-04,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,1,0,0
-Devin Vassell,23,SAS,2023-10-03,Rookie Scale Extension,Bird Exception,1,5.0,146000000.0,29200000.0,0,1,0,0,0
-Cam Payne,29,MIL,2023-10-01,Veteran Contract,Minimum Salary Exception,0,1.0,2891467.0,2891467.0,1,0,0,0,0
-Kelly Oubre Jr.,27,PHI,2023-09-26,Veteran Contract,Minimum Salary Exception,0,1.0,2891467.0,2891467.0,0,0,1,0,0
-Boban Marjanovic,35,HOU,2023-09-19,Veteran Contract,Minimum Salary Exception,0,1.0,2891467.0,2891467.0,0,0,0,0,1
-Jarred Vanderbilt,24,LAL,2023-09-18,Veteran Extension,Bird Exception,1,3.5,48000000.0,12000000.0,0,0,1,1,0
-Taj Gibson,38,WAS,2023-09-15,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,1,1
-Danny Green,36,PHI,2023-09-13,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,0,0,0
-Tristan Thompson,32,CLE,2023-09-12,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,1,1
-Christian Wood,27,LAL,2023-09-06,Veteran Contract,Minimum Salary Exception,0,1.5,5745889.0,2872945.0,0,0,0,1,0
-JaVale McGee,35,SAC,2023-09-02,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1
-Sviatoslav Mykhailiuk,26,BOS,2023-09-01,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,1,1,0,0
-P.J. Washington,25,CHA,2023-08-29,Veteran Contract,Bird Exception,0,3.0,48000000.0,16000000.0,0,0,0,1,0
-Moses Brown,23,POR,2023-08-22,Veteran Contract,Minimum Salary Exception,0,1.0,2165000.0,2165000.0,0,0,0,0,1
-Derrick Jones Jr.,26,DAL,2023-08-18,Veteran Contract,Minimum Salary Exception,0,1.0,2709849.0,2709849.0,0,0,1,1,0
-Terry Taylor,23,CHI,2023-08-14,Veteran Contract,Minimum Salary Exception,0,2.0,4216676.0,2108338.0,0,1,1,0,0
-Josh Hart,28,NYK,2023-08-09,Veteran Extension,Bird Exception,1,3.5,80915280.0,20228820.0,0,1,1,0,0
-Neemias Queta,24,SAC,2023-08-08,Veteran Contract,Minimum Salary Exception,0,2.0,4216676.0,2108338.0,0,0,0,0,1
-Frank Ntilikina,25,CHA,2023-08-05,Veteran Contract,Minimum Salary Exception,0,1.0,2528233.0,2528233.0,1,0,0,0,0
-Trendon Watford,22,BKN,2023-08-03,Veteran Contract,Minimum Salary Exception,0,1.0,2019706.0,2019706.0,0,0,1,1,0
-Garrett Temple,37,TOR,2023-07-31,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,1,0,0
-Thanasis Antetokounmpo,31,MIL,2023-07-27,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,0,1,0,0
-Sandro Mamukelashvili,24,SAS,2023-07-27,Veteran Contract,Minimum Salary Exception,0,1.0,2019706.0,2019706.0,0,0,0,1,1
-Jeff Dowtin,26,TOR,2023-07-22,Veteran Contract,Minimum Salary Exception,0,1.0,2019706.0,2019706.0,1,1,0,0,0
-Ayo Dosunmu,23,CHI,2023-07-22,Veteran Contract,Early-Bird Exception,0,3.0,21000000.0,7000000.0,1,0,0,0,0
-Nerlens Noel,29,SAC,2023-07-21,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,1,1
-Wesley Matthews,36,ATL,2023-07-21,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,1,0,0
-Jack White,25,OKC,2023-07-20,Veteran Contract,Minimum Salary Exception,0,1.5,3922462.0,1961231.0,0,0,1,0,0
-DeAndre Jordan,34,DEN,2023-07-20,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1
-Bol Bol,23,PHX,2023-07-18,Veteran Contract,Minimum Salary Exception,0,1.0,2165000.0,2165000.0,0,0,0,0,1
-Tre Jones,23,SAS,2023-07-18,Veteran Contract,Bird Exception,0,2.0,20000000.0,10000000.0,1,0,0,0,0
-Ömer Yurtseven,25,UTA,2023-07-17,Veteran Contract,Cap Room,0,2.0,5460000.0,2730000.0,0,0,0,0,1
-Montrezl Harrell,29,PHI,2023-07-17,Veteran Contract,Minimum Salary Exception,0,1.0,2891467.0,2891467.0,0,0,0,1,1
-Dalano Banton,23,BOS,2023-07-17,Veteran Contract,Minimum Salary Exception,0,1.5,4216676.0,2108338.0,1,0,0,0,0
-Darius Bazley,23,BKN,2023-07-16,Veteran Contract,Minimum Salary Exception,0,1.0,2165000.0,2165000.0,0,0,0,1,0
-Reggie Jackson,33,DEN,2023-07-16,Veteran Contract,Taxpayer-MLE,0,1.5,10250000.0,5125000.0,1,0,0,0,0
-Torrey Craig,32,CHI,2023-07-15,Veteran Contract,Minimum Salary Exception,0,1.5,5373575.0,2686788.0,0,0,1,0,0
-Dante Exum,28,DAL,2023-07-14,Veteran Contract,MLE,0,2.0,6150000.0,3075000.0,1,1,0,0,0
-Seth Curry,32,DAL,2023-07-14,Veteran Contract,MLE,0,2.0,8000000.0,4000000.0,1,1,0,0,0
-Dario Saric,29,GSW,2023-07-12,Veteran Contract,Minimum Salary Exception,0,1.0,2709849.0,2709849.0,0,0,0,1,0
-Dennis Schroder,29,TOR,2023-07-12,Veteran Contract,MLE,0,2.0,25430250.0,12715125.0,1,0,0,0,0
-Kristaps Porzingis,27,BOS,2023-07-12,Veteran Extension,Bird Exception,1,2.0,60000000.0,30000000.0,0,0,0,1,0
-Isaiah Stewart,22,DET,2023-07-11,Rookie Scale Extension,Bird Exception,1,3.5,64000000.0,16000000.0,0,0,0,1,1
-Grant Williams,24,BOS,2023-07-11,Veteran Contract,Bird Exception,0,4.0,53341500.0,13335375.0,0,0,0,1,0
-Moritz Wagner,26,ORL,2023-07-11,Veteran Contract,Bird Exception,0,1.5,16000000.0,8000000.0,0,0,0,0,1
-Josh Okogie,24,PHX,2023-07-11,Veteran Contract,Non-Bird Exception,0,1.5,5772671.0,2886336.0,0,1,0,0,0
-Aaron Holiday,26,HOU,2023-07-10,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,1,0,0,0,0
-Lonnie Walker IV,24,BKN,2023-07-10,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,1,0,0,0
-Jevon Carter,27,CHI,2023-07-10,Veteran Contract,MLE,0,2.5,19500000.0,6500000.0,1,0,0,0,0
-Dejounte Murray,26,ATL,2023-07-09,Veteran Extension,Bird Exception,0,3.5,120118201.0,30029550.0,1,1,0,0,0
-Mo Bamba,25,PHI,2023-07-09,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,0,0,0,1
-Alex Len,30,SAC,2023-07-09,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1
-Dwight Powell,31,DAL,2023-07-09,Veteran Contract,Bird Exception,0,2.5,12000000.0,4000000.0,0,0,0,1,1
-Patrick Beverley,34,PHI,2023-07-09,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,1,1,0,0,0
-Nickeil Alexander-Walker,24,MIN,2023-07-09,Veteran Contract,Bird Exception,0,2.0,9000000.0,4500000.0,0,1,0,0,0
-Jerami Grant,29,POR,2023-07-09,Veteran Contract,Bird Exception,0,4.5,160000000.0,32000000.0,0,0,1,1,0
-Paul Reed,24,PHI,2023-07-08,Veteran Contract,Bird Exception,0,3.0,23555150.0,7851717.0,0,0,0,1,1
-Anthony Edwards,21,MIN,2023-07-08,Rookie Scale Extension,Bird Exception,1,5.0,216953495.0,43390699.0,0,1,1,0,0
-Donte DiVincenzo,26,NYK,2023-07-08,Veteran Contract,MLE,0,4.0,49870000.0,12467500.0,0,1,0,0,0
-Jae Crowder,33,MIL,2023-07-08,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,1,1,0
-D'Angelo Russell,27,LAL,2023-07-08,Veteran Contract,Bird Exception,0,1.5,37400000.0,18700000.0,1,0,0,0,0
-Dennis Smith Jr.,25,BKN,2023-07-08,Veteran Contract,Minimum Salary Exception,0,1.0,2528233.0,2528233.0,1,0,0,0,0
-Desmond Bane,25,MEM,2023-07-08,Rookie Scale Extension,Bird Exception,1,5.0,205900000.0,41180000.0,0,1,1,0,0
-Malik Shake Milton,26,MIN,2023-07-08,Veteran Contract,MLE,0,2.0,10000000.0,5000000.0,0,1,0,0,0
-Troy Brown Jr.,23,MIN,2023-07-08,Veteran Contract,MLE,0,2.0,8000000.0,4000000.0,0,1,1,0,0
-Draymond Green,33,GSW,2023-07-08,Veteran Contract,Bird Exception,0,3.5,100000000.0,25000000.0,0,0,1,1,0
-AJ Green,23,MIL,2023-07-07,Veteran Contract,Non-Bird Exception,0,3.0,6324049.0,2108016.0,1,0,0,0,0
-Jordan Clarkson,31,UTA,2023-07-07,Veteran Extension,Bird Exception,0,3.0,53000001.0,17666667.0,1,1,0,0,0
-Dillon Brooks,27,MEM,2023-07-07,Veteran Contract,Bird Exception,0,4.0,90000001.0,22500000.0,0,1,1,0,0
-Fred VanVleet,29,HOU,2023-07-07,Veteran Contract,Cap Room,0,2.5,128539845.0,42846615.0,1,0,0,0,0
-Joe Ingles,35,ORL,2023-07-07,Veteran Contract,Cap Room,0,1.5,22000000.0,11000000.0,0,0,1,1,0
-Kyrie Irving,31,DAL,2023-07-07,Veteran Contract,Bird Exception,0,2.5,126000000.0,42000000.0,1,1,0,0,0
-Damion Lee,30,PHX,2023-07-07,Veteran Contract,Minimum Salary Exception,0,1.5,5373575.0,2686788.0,0,1,0,0,0
-Kyle Kuzma,27,WAS,2023-07-07,Veteran Contract,Bird Exception,0,4.0,102200000.0,25550000.0,0,0,0,1,0
-Coby White,23,CHI,2023-07-07,Veteran Contract,Bird Exception,0,3.0,39999999.0,13333333.0,1,1,0,0,0
-Trey Lyles,27,SAC,2023-07-07,Veteran Contract,Early-Bird Exception,0,2.0,18400000.0,9200000.0,0,0,0,1,0
-Tyrese Haliburton,23,IND,2023-07-06,Rookie Scale Extension,Bird Exception,1,5.0,216953495.0,43390699.0,1,0,0,0,0
-Matisse Thybulle,26,POR,2023-07-06,Veteran Contract,Bird Exception,0,2.5,33075000.0,11025000.0,0,1,0,0,0
-E.J. Liddell,22,NOP,2023-07-06,Veteran Contract,MLE,0,2.5,6224049.0,2074683.0,0,0,0,1,0
-Malik Beasley,26,MIL,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,2709849.0,2709849.0,0,1,0,0,0
-Robin Lopez,35,MIL,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1
-Mason Plumlee,33,LAC,2023-07-06,Veteran Contract,Bird Exception,0,1.0,5000000.0,5000000.0,0,0,0,0,1
-Cory Joseph,31,GSW,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,1,1,0,0,0
-Justin Holiday,34,DEN,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,1,0,0
-Cody Zeller,30,NOP,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1
-Eric Gordon,34,PHX,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,6552719.0,3276360.0,1,1,0,0,0
-Domantas Sabonis,27,SAC,2023-07-06,Veteran Extension,Bird Exception,0,5.0,216616000.0,43323200.0,0,0,0,1,1
-Jeff Green,36,HOU,2023-07-06,Veteran Contract,Cap Room,0,1.5,19200000.0,9600000.0,0,0,1,1,0
-Jalen McDaniels,25,TOR,2023-07-06,Veteran Contract,Biannual Exception,0,2.0,9257800.0,4628900.0,0,0,0,1,0
-Russell Westbrook,34,LAC,2023-07-06,Veteran Contract,Non-Bird Exception,0,1.5,7863263.0,3931632.0,1,0,0,0,0
-Jock Landale,27,HOU,2023-07-06,Veteran Contract,Cap Room,0,3.5,32000000.0,8000000.0,0,0,0,1,1
-Ty Jerome,25,CLE,2023-07-06,Veteran Contract,Biannual Exception,0,2.0,5000000.0,2500000.0,1,1,0,0,0
-LaMelo Ball,21,CHA,2023-07-06,Rookie Scale Extension,Bird Exception,1,5.0,216953495.0,43390699.0,1,1,0,0,0
-Austin Reaves,25,LAL,2023-07-06,Veteran Contract,Early-Bird Exception,0,3.5,53827872.0,13456968.0,0,1,0,0,0
-Brook Lopez,35,MIL,2023-07-06,Veteran Contract,Bird Exception,0,2.0,48000000.0,24000000.0,0,0,0,0,1
-Jaxson Hayes,23,LAL,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,4628946.0,2314473.0,0,0,0,1,1
-Max Strus,27,MIA,2023-07-06,Veteran Extension,Bird Exception,0,4.0,62297040.0,15574260.0,0,1,1,0,0
-Cameron Johnson,27,BKN,2023-07-06,Veteran Contract,Bird Exception,0,4.0,108000000.0,27000000.0,0,0,1,1,0
-Cam Reddish,23,LAL,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,4628946.0,2314473.0,0,0,1,0,0
-Oshae Brissett,25,BOS,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,4628946.0,2314473.0,0,0,1,1,0
-Julian Champagnie,22,SAS,2023-07-06,Veteran Contract,Cap Room,0,3.5,12000000.0,3000000.0,0,1,1,0,0
-Rui Hachimura,25,LAL,2023-07-06,Veteran Contract,Bird Exception,0,3.0,51000000.0,17000000.0,0,0,0,1,0
-Kevin Love,34,MIA,2023-07-06,Veteran Contract,Non-Bird Exception,0,1.5,7863263.0,3931632.0,0,0,0,1,1
-Herbert Jones,24,NOP,2023-07-06,Veteran Contract,Early-Bird Exception,0,4.0,53827872.0,13456968.0,0,1,1,0,0
-Gabe Vincent,27,LAL,2023-07-06,Veteran Contract,MLE,0,3.0,33000000.0,11000000.0,1,0,0,0,0
-Jakob Poeltl,27,TOR,2023-07-06,Veteran Contract,Bird Exception,0,3.5,80000000.0,20000000.0,0,0,0,0,1
-Khris Middleton,31,MIL,2023-07-06,Veteran Contract,Bird Exception,0,2.5,102185185.0,34061728.0,0,1,1,0,0
-Georges Niang,30,CLE,2023-07-06,Veteran Contract,MLE,0,3.0,25500000.0,8500000.0,0,0,0,1,0
-Bruce Brown Jr.,26,IND,2023-07-06,Veteran Contract,Cap Room,0,1.5,45000000.0,22500000.0,0,1,0,0,0
-Taurean Prince,29,LAL,2023-07-06,Veteran Contract,Biannual Exception,0,1.0,4516000.0,4516000.0,0,0,1,0,0
-Caris LeVert,28,CLE,2023-07-06,Veteran Contract,Bird Exception,0,2.0,32000000.0,16000000.0,0,1,1,0,0
-Derrick Rose,34,MEM,2023-07-03,Veteran Contract,Minimum Salary Exception,0,2.0,6552719.0,3276360.0,1,0,0,0,0
-Yuta Watanabe,28,PHX,2023-07-02,Veteran Contract,Minimum Salary Exception,0,1.5,5001258.0,2500629.0,0,0,1,0,0
-Chimezie Metu,26,PHX,2023-07-02,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,0,0,1,0
-Keita Bates-Diop,27,PHX,2023-07-02,Veteran Contract,Minimum Salary Exception,0,1.5,5001258.0,2500629.0,0,0,1,0,0
-Drew Eubanks,26,PHX,2023-07-02,Veteran Contract,Minimum Salary Exception,0,1.5,5001258.0,2500629.0,0,0,0,1,0
-Thomas Bryant,25,MIA,2023-07-01,Veteran Contract,Minimum Salary Exception,0,1.5,5373575.0,2686788.0,0,0,0,0,1
-Josh Richardson,29,MIA,2023-07-01,Veteran Contract,Minimum Salary Exception,0,1.5,5942620.0,2971310.0,0,1,1,0,0
-Orlando Robinson,22,MIA,2023-07-01,Veteran Contract,Minimum Salary Exception,0,2.0,3922462.0,1961231.0,0,0,0,1,1
-Miles Bridges,25,CHA,2023-06-28,Veteran Contract,Bird Exception,0,1.0,7921300.0,7921300.0,0,0,1,1,0
-Harrison Barnes,31,SAC,2023-06-28,Veteran Extension,Bird Exception,0,3.0,54000000.0,18000000.0,0,0,1,1,0
-Nikola Vucevic,32,CHI,2023-06-28,Veteran Extension,Bird Exception,0,3.0,60000000.0,20000000.0,0,0,0,0,1
-Naz Reid,23,MIN,2023-06-27,Veteran Extension,Bird Exception,1,2.5,41959296.0,13986432.0,0,0,0,0,1
-Tristan Thompson,32,LAL,2023-04-09,Veteran Contract,Minimum Salary Exception,0,1.0,16700.0,16700.0,0,0,0,1,1
-Willie Cauley-Stein,29,HOU,2023-04-09,Veteran Contract,Minimum Salary Exception,0,1.0,14158.0,14158.0,0,0,0,0,1
-Isaiah Roby,25,NYK,2023-04-09,Veteran Contract,Room-MLE,0,2.0,2466585.0,1233293.0,0,0,0,1,0
-Shaquille Harrison,29,LAL,2023-04-09,Veteran Contract,Minimum Salary Exception,0,2.0,2425564.0,1212782.0,1,1,1,0,0
-Vernon Carey Jr.,22,UTA,2023-04-08,Veteran Contract,Minimum Salary Exception,0,2.0,2097238.0,1048619.0,0,0,0,0,1
-David Duke Jr.,23,BKN,2023-04-07,Veteran Contract,Minimum Salary Exception,0,1.0,28241.0,28241.0,1,1,0,0,0
-Kobi Simmons,25,CHA,2023-04-07,Veteran Contract,Minimum Salary Exception,0,2.0,2099380.0,1049690.0,1,0,0,0,0
-Luka Samanic,23,UTA,2023-04-07,Veteran Contract,MLE,0,2.0,2499380.0,1249690.0,0,0,0,1,0
-DaQuan Jeffries,25,NYK,2023-03-26,Veteran Contract,Room-MLE,0,2.0,2366585.0,1183293.0,0,1,0,0,0
-Eugene Omoruyi,26,DET,2023-03-23,Veteran Contract,MLE,0,1.5,2197341.0,1098671.0,0,0,1,0,0
-D.J. Augustin,35,HOU,2023-03-23,Veteran Contract,Minimum Salary Exception,0,1.0,300605.0,300605.0,1,0,0,0,0
-Nick Richards,25,CHA,2023-03-22,Veteran Extension,Bird Exception,0,3.0,15000000.0,5000000.0,0,0,0,0,1
-Anthony Lamb,25,GSW,2023-03-17,Veteran Contract,Minimum Salary Exception,0,1.0,253254.0,253254.0,0,1,1,0,0
-Bogdan Bogdanovic,30,ATL,2023-03-16,Veteran Extension,Bird Exception,1,3.5,68000000.0,17000000.0,0,1,0,0,0
-Sam Merrill,26,CLE,2023-03-14,Veteran Contract,MLE,0,3.0,5012231.0,1670744.0,0,1,0,0,0
-Meyers Leonard,31,MIL,2023-03-14,Veteran Contract,Minimum Salary Exception,0,1.0,409916.0,409916.0,0,0,0,1,1
-Kris Dunn,28,UTA,2023-03-14,Veteran Contract,MLE,0,2.0,3322484.0,1661242.0,1,0,0,0,0
-Goran Dragic,36,MIL,2023-03-04,Veteran Contract,Minimum Salary Exception,0,1.0,617911.0,617911.0,1,1,0,0,0
-Carlik Jones,25,CHI,2023-03-03,Veteran Contract,MLE,0,3.0,4377957.0,1459319.0,1,1,0,0,0
-Sandro Mamukelashvili,23,SAS,2023-03-03,Veteran Contract,Minimum Salary Exception,0,1.0,357717.0,357717.0,0,0,0,1,1
-Will Barton,32,TOR,2023-02-28,Veteran Contract,Minimum Salary Exception,0,1.0,684712.0,684712.0,0,1,1,0,0
-Michael Carter-Williams,31,ORL,2023-02-26,Veteran Contract,Minimum Salary Exception,0,1.5,3703973.0,1851987.0,1,1,0,0,0
-Lindy Waters III,25,OKC,2023-02-26,Veteran Contract,MLE,0,1.5,3855792.0,1927896.0,0,1,0,0,0
-PJ Dozier,26,SAC,2023-02-25,Veteran Contract,Minimum Salary Exception,0,2.0,2952754.0,1476377.0,1,1,0,0,0
-Ish Wainright,28,PHX,2023-02-24,Veteran Contract,Taxpayer-MLE,0,1.5,2402747.0,1201374.0,0,0,1,1,0
-Jordan Goodwin,24,WAS,2023-02-24,Veteran Contract,MLE,0,2.5,4920240.0,1640080.0,0,1,0,0,0
-R.J. Hampton,22,DET,2023-02-23,Veteran Contract,Minimum Salary Exception,0,2.0,2482641.0,1241321.0,1,0,0,0,0
-Admiral Schofield,25,ORL,2023-02-21,Veteran Contract,Minimum Salary Exception,0,1.5,2503746.0,1251873.0,0,0,1,0,0
-Kevin Love,34,MIA,2023-02-20,Veteran Contract,Biannual Exception,0,1.0,3114138.0,3114138.0,0,0,0,1,1
-Cody Zeller,30,MIA,2023-02-20,Veteran Contract,Minimum Salary Exception,0,1.0,743922.0,743922.0,0,0,0,0,1
-Justin Holiday,33,DAL,2023-02-15,Veteran Contract,Minimum Salary Exception,0,1.0,819832.0,819832.0,0,1,1,0,0
-Patrick Beverley,34,CHI,2023-02-14,Veteran Contract,Minimum Salary Exception,0,1.0,801614.0,801614.0,1,1,0,0,0
-Dewayne Dedmon,33,PHI,2023-02-14,Veteran Contract,Minimum Salary Exception,0,1.0,835014.0,835014.0,0,0,0,0,1
-Charles Bassey,22,SAS,2023-02-14,Veteran Contract,Cap Room,0,4.0,10200000.0,2550000.0,0,0,0,0,1
-Terrence Ross,32,PHX,2023-02-14,Veteran Contract,Minimum Salary Exception,0,1.0,918516.0,918516.0,0,1,1,0,0
-Reggie Jackson,32,DEN,2023-02-14,Veteran Contract,Minimum Salary Exception,0,1.0,918516.0,918516.0,1,0,0,0,0
-James Johnson,35,IND,2023-02-13,Veteran Contract,Minimum Salary Exception,0,1.0,935216.0,935216.0,0,0,1,1,0
-Goga Bitadze,23,ORL,2023-02-13,Veteran Contract,Minimum Salary Exception,0,1.5,2678766.0,1339383.0,0,0,0,0,1
-Danny Green,35,CLE,2023-02-13,Veteran Contract,MLE,0,1.0,2000000.0,2000000.0,0,1,0,0,0
-Boban Marjanovic,34,HOU,2023-02-12,Veteran Contract,Minimum Salary Exception,0,1.0,807005.0,807005.0,0,0,0,0,1
-Joe Wieskamp,23,TOR,2023-02-11,Veteran Contract,Minimum Salary Exception,0,2.0,2473885.0,1236943.0,1,1,0,0,0
-Eugene Omoruyi,25,OKC,2023-02-10,Veteran Contract,Minimum Salary Exception,0,1.5,2483298.0,1241649.0,0,0,1,0,0
-Gorgui Dieng,33,SAS,2023-02-10,Veteran Contract,Minimum Salary Exception,0,1.0,895743.0,895743.0,0,0,0,1,1
-Myles Turner,26,IND,2023-01-30,Veteran Extension,Bird Exception,1,2.0,43903500.0,21951750.0,0,0,0,0,1
-Stanley Johnson,26,SAS,2022-12-13,Veteran Contract,Minimum Salary Exception,0,1.0,1670643.0,1670643.0,0,0,1,1,0
-Al Horford,36,BOS,2022-12-02,Veteran Extension,Bird Exception,1,2.0,19500000.0,9750000.0,0,0,0,1,1
-Kemba Walker,32,DAL,2022-11-29,Veteran Contract,Minimum Salary Exception,0,1.0,2204439.0,2204439.0,1,0,0,0,0
-Alize Johnson,26,SAS,2022-11-29,Veteran Contract,Minimum Salary Exception,0,1.0,1493098.0,1493098.0,0,0,1,1,0
-Jordan Hall,20,SAS,2022-11-02,Veteran Contract,Minimum Salary Exception,0,1.0,935891.0,935891.0,1,0,1,0,0
-Facundo Campazzo,31,DAL,2022-10-18,Veteran Contract,Minimum Salary Exception,0,1.0,1836090.0,1836090.0,1,0,0,0,0
-Nassir Little,22,POR,2022-10-17,Rookie Scale Extension,Bird Exception,1,4.0,28000000.0,7000000.0,0,0,0,1,0
-Kevin Porter Jr.,22,HOU,2022-10-17,Rookie Scale Extension,Bird Exception,1,4.0,82472000.0,20618000.0,1,1,0,0,0
-De'Andre Hunter,24,ATL,2022-10-17,Rookie Scale Extension,Bird Exception,1,4.0,95000000.0,23750000.0,0,0,1,0,0
-Brandon Clarke,26,MEM,2022-10-16,Rookie Scale Extension,Bird Exception,1,4.0,52000000.0,13000000.0,0,0,0,1,0
-Isaiah Joe,23,OKC,2022-10-16,Veteran Contract,MLE,0,2.5,5998321.0,1999440.0,0,1,0,0,0
-Andrew Wiggins,27,GSW,2022-10-15,Veteran Extension,Bird Exception,0,3.5,109000002.0,27250001.0,0,1,1,0,0
-Jordan Poole,23,GSW,2022-10-15,Rookie Scale Extension,Bird Exception,1,4.0,140000000.0,35000000.0,0,1,0,0,0
-Noah Kirkwood,22,BKN,2022-10-06,Veteran Contract,Minimum Salary Exception,0,1.0,1017781.0,1017781.0,0,1,0,0,0
-Larry Nance Jr.,29,NOP,2022-10-03,Veteran Extension,Bird Exception,1,2.0,21580000.0,10790000.0,0,0,0,1,1
-Blake Griffin,33,BOS,2022-10-03,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,0
-Bruno Fernando,24,HOU,2022-10-02,Veteran Contract,MLE,0,3.5,10869564.0,2717391.0,0,0,0,0,1
-Tyler Herro,22,MIA,2022-10-02,Rookie Scale Extension,Bird Exception,1,4.0,130000000.0,32500000.0,0,1,0,0,0
-Bojan Bogdanovic,33,DET,2022-10-01,Veteran Extension,Bird Exception,1,2.0,39032850.0,19516425.0,0,0,1,0,0
-Steven Adams,29,MEM,2022-10-01,Veteran Extension,Bird Exception,1,2.0,25200000.0,12600000.0,0,0,0,0,1
-Anthony Tolliver,37,MIA,2022-09-29,Veteran Contract,Minimum Salary Exception,0,1.0,825497.0,825497.0,0,0,1,1,0
-Dean Wade,25,CLE,2022-09-27,Veteran Extension,Bird Exception,1,3.0,18500000.0,6166667.0,0,0,0,1,0
-Andre Iguodala,38,GSW,2022-09-26,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,1,1,0,0
-Jordan Nwora,24,MIL,2022-09-26,Veteran Contract,Early-Bird Exception,0,2.0,6200000.0,3100000.0,0,0,1,0,0
-CJ McCollum,31,NOP,2022-09-26,Veteran Extension,Bird Exception,1,2.0,63999999.0,32000000.0,0,1,0,0,0
-Kent Bazemore,33,SAC,2022-09-20,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,1,1,0,0
-Sviatoslav Mykhailiuk,25,NYK,2022-09-18,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,1,1,0,0
-Dennis Schroder,29,LAL,2022-09-16,Veteran Contract,Minimum Salary Exception,0,1.0,2641682.0,2641682.0,1,0,0,0,0
-KZ Okpala,23,SAC,2022-09-14,Veteran Contract,Minimum Salary Exception,0,2.0,3968718.0,1984359.0,0,0,1,0,0
-Montrezl Harrell,28,PHI,2022-09-13,Veteran Contract,Minimum Salary Exception,0,1.5,5223516.0,2611758.0,0,0,0,1,1
-Maxi Kleber,30,DAL,2022-09-08,Veteran Extension,Bird Exception,1,3.0,33000000.0,11000000.0,0,0,0,1,1
-Markieff Morris,33,BKN,2022-09-07,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,0
-Collin Sexton,23,CLE,2022-09-03,Veteran Contract,Bird Exception,0,4.0,72950000.0,18237500.0,1,1,0,0,0
-RJ Barrett,22,NYK,2022-09-01,Rookie Scale Extension,Bird Exception,1,4.0,120000000.0,30000000.0,0,1,0,0,0
-Josh Jackson,25,TOR,2022-08-30,Veteran Contract,Minimum Salary Exception,0,1.0,2133278.0,2133278.0,0,1,1,0,0
-Joe Wieskamp,23,SAS,2022-08-24,Veteran Contract,Cap Room,0,2.0,4375000.0,2187500.0,1,1,0,0,0
-Udonis Haslem,42,MIA,2022-08-23,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,1
-Sam Merrill,26,SAC,2022-08-12,Veteran Contract,Minimum Salary Exception,0,2.0,3833328.0,1916664.0,0,1,0,0,0
-Gorgui Dieng,32,SAS,2022-08-09,Veteran Contract,Minimum Salary Exception,0,1.0,2641682.0,2641682.0,0,0,0,1,1
-Mike Muscala,31,OKC,2022-08-03,Veteran Contract,Bird Exception,0,1.5,7000000.0,3500000.0,0,0,0,1,1
-Goran Dragic,36,CHI,2022-08-02,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,1,1,0,0,0
-Rodney McGruder,31,DET,2022-08-01,Veteran Contract,Minimum Salary Exception,0,1.0,2298385.0,2298385.0,0,1,0,0,0
-JaMychal Green,32,GSW,2022-08-01,Veteran Contract,Minimum Salary Exception,0,1.0,2628597.0,2628597.0,0,0,0,1,0
-Kevin Knox,22,DET,2022-08-01,Veteran Contract,Cap Room,0,1.5,6000000.0,3000000.0,0,0,1,1,0
-Matthew Dellavedova,31,SAC,2022-07-29,Veteran Contract,Minimum Salary Exception,0,1.0,2628597.0,2628597.0,1,1,0,0,0
-Juancho Hernangomez,26,TOR,2022-07-27,Veteran Contract,Minimum Salary Exception,0,1.0,2298385.0,2298385.0,0,0,0,1,0
-James Harden,32,PHI,2022-07-27,Veteran Contract,Bird Exception,0,1.5,68640000.0,34320000.0,1,1,0,0,0
-Nathan Knight,24,MIN,2022-07-22,Veteran Contract,Minimum Salary Exception,0,1.5,3833328.0,1916664.0,0,0,0,1,0
-Kenrich Williams,27,OKC,2022-07-20,Veteran Extension,Bird Exception,1,3.5,27170000.0,6792500.0,0,0,1,1,0
-Austin Rivers,29,MIN,2022-07-19,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,1,1,0,0,0
-Taj Gibson,37,WAS,2022-07-19,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,1
-Serge Ibaka,32,MIL,2022-07-19,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,1
-Keldon Johnson,22,SAS,2022-07-18,Designated Rookie Scale Extension,Bird Exception,1,4.0,74000000.0,18500000.0,0,0,1,0,0
-Kentavious Caldwell-Pope,29,DEN,2022-07-18,Veteran Extension,Bird Exception,1,1.5,30145123.0,15072562.0,0,1,0,0,0
-Pat Connaughton,29,MIL,2022-07-18,Veteran Extension,Bird Exception,1,2.5,28271607.0,9423869.0,0,1,0,0,0
-Deandre Ayton,23,PHX,2022-07-15,Post-Rookie Free-Agent Contract,Bird Exception,0,4.0,132929128.0,33232282.0,0,0,0,0,1
-Justin Champagnie,21,TOR,2022-07-13,Veteran Contract,Minimum Salary Exception,0,2.0,3565862.0,1782931.0,0,0,1,1,0
-Danilo Gallinari,33,BOS,2022-07-12,Veteran Contract,Taxpayer-MLE,0,1.5,13281950.0,6640975.0,0,0,1,1,0
-Mitchell Robinson,24,NYK,2022-07-12,Veteran Contract,Bird Exception,0,4.0,60000000.0,15000000.0,0,0,0,0,1
-Jalen Brunson,25,NYK,2022-07-12,Veteran Contract,Cap Room,0,3.5,104000000.0,26000000.0,1,0,0,0,0
-Isaiah Hartenstein,24,NYK,2022-07-12,Veteran Contract,Cap Room,0,2.0,18100000.0,9050000.0,0,0,0,1,1
-Frank Kaminsky,29,ATL,2022-07-11,Veteran Contract,Minimum Salary Exception,0,1.0,2463490.0,2463490.0,0,0,0,1,1
-DeAndre Jordan,33,DEN,2022-07-11,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,0,1
-Bryn Forbes,28,MIN,2022-07-10,Veteran Contract,Minimum Salary Exception,0,1.0,2298385.0,2298385.0,0,1,0,0,0
-Patty Mills,33,BKN,2022-07-10,Veteran Contract,Non-Bird Exception,0,2.0,14489402.0,7244701.0,1,0,0,0,0
-Jericho Sims,23,NYK,2022-07-09,Veteran Contract,Cap Room,0,2.5,5660082.0,1886694.0,0,0,0,1,0
-Sam Hauser,24,BOS,2022-07-09,Veteran Contract,Non-Bird Exception,0,2.5,5658206.0,1886069.0,0,0,1,0,0
-Luke Kornet,26,BOS,2022-07-09,Veteran Contract,Minimum Salary Exception,0,2.0,4546582.0,2273291.0,0,0,0,1,1
-Kevon Looney,26,GSW,2022-07-09,Veteran Contract,Bird Exception,0,3.0,25500000.0,8500000.0,0,0,0,1,1
-JaVale McGee,34,DAL,2022-07-09,Veteran Contract,Taxpayer-MLE,0,2.5,17202840.0,5734280.0,0,0,0,0,1
-Edmond Sumner,26,BKN,2022-07-08,Veteran Contract,Minimum Salary Exception,0,2.0,4208118.0,2104059.0,1,0,0,0,0
-Darius Garland,22,CLE,2022-07-08,Designated Rookie Scale Extension,Bird Exception,1,5.0,197230450.0,39446090.0,1,0,0,0,0
-Donte DiVincenzo,25,GSW,2022-07-08,Veteran Contract,Taxpayer-MLE,0,1.5,9225000.0,4612500.0,0,1,0,0,0
-John Wall,31,LAC,2022-07-08,Veteran Contract,Taxpayer-MLE,0,1.5,13281950.0,6640975.0,1,0,0,0,0
-D.J. Wilson,26,TOR,2022-07-07,Veteran Contract,Minimum Salary Exception,0,2.0,4546582.0,2273291.0,0,0,0,1,0
-Vlatko Cancar,25,DEN,2022-07-07,Veteran Contract,Bird Exception,0,2.5,6815324.0,2271775.0,0,0,1,0,0
-T.J. Warren,28,BKN,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,2628597.0,2628597.0,0,0,1,0,0
-Raul Neto,30,CLE,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,2463490.0,2463490.0,1,0,0,0,0
-Robin Lopez,34,CLE,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,0,1
-Drew Eubanks,25,POR,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,0,0,1,0
-Zach LaVine,27,CHI,2022-07-07,Veteran Contract,Bird Exception,0,4.5,215159700.0,43031940.0,0,1,0,0,0
-Theo Pinson,26,DAL,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,1,0,0,0
-John Konchar,26,MEM,2022-07-06,Veteran Extension,Bird Exception,1,3.0,18495000.0,6165000.0,0,1,0,0,0
-Kessler Edwards,21,BKN,2022-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,3565862.0,1782931.0,0,0,1,0,0
-Caleb Martin,26,MIA,2022-07-06,Veteran Contract,MLE,0,2.5,20408850.0,6802950.0,0,0,1,0,0
-Thomas Bryant,24,LAL,2022-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,2133278.0,2133278.0,0,0,0,0,1
-Cody Martin,26,CHA,2022-07-06,Veteran Contract,Bird Exception,0,4.0,31360000.0,7840000.0,0,0,1,0,0
-Jalen Smith,22,IND,2022-07-06,Veteran Contract,Early-Bird Exception,0,2.5,15131319.0,5043773.0,0,0,0,1,0
-Derrick Jones Jr.,25,CHI,2022-07-06,Veteran Contract,Non-Bird Exception,0,1.5,6560000.0,3280000.0,0,0,1,1,0
-Bol Bol,22,ORL,2022-07-06,Veteran Contract,Bird Exception,0,2.0,4400000.0,2200000.0,0,0,0,0,1
-Jusuf Nurkic,27,POR,2022-07-06,Veteran Contract,Bird Exception,0,4.0,70000000.0,17500000.0,0,0,0,0,1
-Otto Porter Jr.,29,TOR,2022-07-06,Veteran Contract,MLE,0,1.5,12300000.0,6150000.0,0,0,1,0,0
-Aaron Holiday,25,ATL,2022-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,1,0,0,0,0
-Bruce Brown Jr.,25,DEN,2022-07-06,Veteran Contract,Taxpayer-MLE,0,1.5,13281950.0,6640975.0,0,1,0,0,0
-Ricky Rubio,31,CLE,2022-07-06,Veteran Contract,MLE,0,3.0,18439026.0,6146342.0,1,0,0,0,0
-Ja Morant,22,MEM,2022-07-06,Designated Rookie Scale Extension,Bird Exception,1,5.0,197230450.0,39446090.0,1,0,0,0,0
-Zion Williamson,22,NOP,2022-07-06,Designated Rookie Scale Extension,Bird Exception,1,5.0,197230450.0,39446090.0,0,0,0,1,0
-Gary Payton II,29,POR,2022-07-06,Veteran Contract,MLE,0,2.5,26145000.0,8715000.0,1,0,0,0,0
-Andre Drummond,28,CHI,2022-07-06,Veteran Contract,MLE,0,1.5,6560000.0,3280000.0,0,0,0,0,1
-Luguentz Dort,23,OKC,2022-07-06,Veteran Contract,Bird Exception,0,4.5,87500000.0,17500000.0,0,0,1,1,0
-Delon Wright,30,WAS,2022-07-06,Veteran Contract,MLE,0,2.0,16000000.0,8000000.0,1,1,0,0,0
-Kyle Anderson,28,MIN,2022-07-06,Veteran Contract,MLE,0,2.0,18000000.0,9000000.0,0,0,1,1,0
-Amir Coffey,25,LAC,2022-07-06,Veteran Contract,Bird Exception,0,3.0,11000000.0,3666667.0,0,1,0,0,0
-Jevon Carter,26,MIL,2022-07-06,Veteran Contract,Non-Bird Exception,0,1.5,4339943.0,2169972.0,1,0,0,0,0
-Mo Bamba,24,ORL,2022-07-06,Veteran Contract,Bird Exception,0,2.0,20600000.0,10300000.0,0,0,0,0,1
-Wesley Matthews,35,MIL,2022-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,1,1,0,0
-Nicolas Claxton,23,BKN,2022-07-06,Veteran Contract,Bird Exception,0,2.0,19837500.0,9918750.0,0,0,0,1,1
-Lonnie Walker IV,23,LAL,2022-07-06,Veteran Contract,Taxpayer-MLE,0,1.0,6479000.0,6479000.0,0,1,0,0,0
-Jae’Sean Tate,26,HOU,2022-07-06,Veteran Contract,Early-Bird Exception,0,2.5,22130434.0,7376811.0,0,0,1,0,0
-Marvin Bagley III,23,DET,2022-07-06,Veteran Contract,Bird Exception,0,3.0,37500000.0,12500000.0,0,0,0,1,0
-Joe Ingles,34,MIL,2022-07-06,Veteran Contract,Taxpayer-MLE,0,1.0,6479000.0,6479000.0,0,0,1,1,0
-Dewayne Dedmon,32,MIA,2022-07-06,Veteran Contract,Early-Bird Exception,0,2.0,9024000.0,4512000.0,0,0,0,0,1
-Chris Boucher,28,TOR,2022-07-06,Veteran Contract,Bird Exception,0,3.0,35250000.0,11750000.0,0,0,0,1,0
-Tyus Jones,26,MEM,2022-07-06,Veteran Contract,Bird Exception,0,2.0,29000000.0,14500000.0,1,0,0,0,0
-Danuel House Jr.,29,PHI,2022-07-06,Veteran Contract,Biannual Exception,0,1.5,8415250.0,4207625.0,0,1,1,0,0
-Bobby Portis,27,MIL,2022-07-06,Veteran Contract,Early-Bird Exception,0,3.5,48578208.0,12144552.0,0,0,0,1,1
-Anfernee Simons,23,POR,2022-07-06,Veteran Contract,Bird Exception,0,4.0,100000000.0,25000000.0,0,1,0,0,0
-Malik Monk,24,SAC,2022-07-06,Veteran Contract,MLE,0,2.0,19418049.0,9709025.0,0,1,0,0,0
-P.J. Tucker,37,PHI,2022-07-06,Veteran Contract,MLE,0,2.5,33043500.0,11014500.0,0,1,1,1,0
-Nicolas Batum,33,LAC,2022-07-06,Veteran Contract,Early-Bird Exception,0,2.0,22554168.0,11277084.0,0,1,1,0,0
-Victor Oladipo,30,MIA,2022-07-06,Veteran Contract,Bird Exception,0,1.5,18200000.0,9100000.0,1,1,0,0,0
-Bismack Biyombo,29,PHX,2022-07-03,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,0,1
-Josh Okogie,23,PHX,2022-07-02,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,1,0,0,0
-Damion Lee,29,PHX,2022-07-01,Veteran Contract,Minimum Salary Exception,0,1.0,2133278.0,2133278.0,0,1,0,0,0
-Davon Reed,27,DEN,2022-07-01,Veteran Contract,Minimum Salary Exception,0,2.0,3968718.0,1984359.0,0,1,0,0,0
-Anthony Gill,29,WAS,2022-07-01,Veteran Contract,Minimum Salary Exception,0,2.0,3833328.0,1916664.0,0,0,0,1,0
-Damian Jones,27,LAL,2022-07-01,Veteran Contract,Minimum Salary Exception,0,1.5,4885050.0,2442525.0,0,0,0,0,1
-Juan Toscano-Anderson,29,LAL,2022-07-01,Veteran Contract,Minimum Salary Exception,0,1.0,1902133.0,1902133.0,0,0,1,0,0
-Troy Brown Jr.,22,LAL,2022-07-01,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,1,1,0,0
-Trevelin Queen,25,PHI,2022-07-01,Veteran Contract,Minimum Salary Exception,0,2.0,3565862.0,1782931.0,0,1,0,0,0
-Gary Harris,27,ORL,2022-06-30,Veteran Extension,Bird Exception,1,2.0,26000000.0,13000000.0,0,1,0,0,0
-Taurean Prince,28,MIN,2022-06-30,Veteran Extension,Bird Exception,1,2.0,16685000.0,8342500.0,0,0,1,0,0
-Thaddeus Young,34,TOR,2022-06-30,Veteran Extension,Bird Exception,0,2.0,17300000.0,8650000.0,0,0,0,1,0
-Ivica Zubac,25,LAC,2022-06-28,Veteran Extension,Bird Exception,1,3.0,32800000.0,10933333.0,0,0,0,0,1
-Robert Covington,31,LAC,2022-05-07,Veteran Extension,Bird Exception,1,2.0,24000000.0,12000000.0,0,0,1,1,0
-Trent Forrest,23,UTA,2022-04-10,Veteran Contract,Minimum Salary Exception,0,1.0,8558.0,8558.0,1,1,0,0,0
-Devin Cannady,25,ORL,2022-04-10,Veteran Contract,MLE,0,2.5,3754775.0,1251592.0,1,0,0,0,0
-Juwan Morgan,24,BOS,2022-04-09,Veteran Contract,Minimum Salary Exception,0,1.5,1834863.0,917432.0,0,0,0,1,0
-Moses Brown,22,CLE,2022-04-09,Veteran Contract,Minimum Salary Exception,0,1.0,19186.0,19186.0,0,0,0,0,1
-Rayjon Tucker,24,MIL,2022-04-08,Veteran Contract,MLE,0,3.0,3812638.0,1270879.0,0,1,0,0,0
-Wenyen Gabriel,25,LAL,2022-04-08,Veteran Contract,Minimum Salary Exception,0,1.5,1908534.0,954267.0,0,0,0,1,1
-Greg Monroe,31,MIN,2022-04-07,Veteran Contract,Minimum Salary Exception,0,1.0,55208.0,55208.0,0,0,0,1,1
-Luca Vildoza,26,MIL,2022-04-06,Veteran Contract,Minimum Salary Exception,0,2.0,1795427.0,897714.0,1,1,0,0,0
-Carsen Edwards,24,DET,2022-04-03,Veteran Contract,Minimum Salary Exception,0,1.5,1892421.0,946211.0,0,1,0,0,0
-Amir Coffey,24,LAC,2022-03-26,Veteran Contract,Minimum Salary Exception,0,1.0,153488.0,153488.0,0,1,0,0,0
-Armoni Brooks,23,TOR,2022-03-26,Veteran Contract,MLE,0,2.0,2002638.0,1001319.0,1,1,0,0,0
-Isaiah Thomas,33,CHA,2022-03-22,Veteran Contract,Minimum Salary Exception,0,1.0,303643.0,303643.0,1,1,0,0,0
-Malik Fitts,24,BOS,2022-03-15,Veteran Contract,Minimum Salary Exception,0,2.0,1983700.0,991850.0,0,0,1,1,0
-Haywood Highsmith,25,MIA,2022-03-08,Veteran Contract,MLE,0,3.0,3945742.0,1315247.0,0,0,1,0,0
-Devontae Cacok,25,SAS,2022-03-04,Veteran Contract,Minimum Salary Exception,0,1.0,364533.0,364533.0,0,0,0,1,1
-Nik Stauskas,28,BOS,2022-03-04,Veteran Contract,Minimum Salary Exception,0,2.0,2617456.0,1308728.0,0,1,0,0,0
-DeAndre Jordan,33,PHI,2022-03-03,Veteran Contract,Minimum Salary Exception,0,1.0,592103.0,592103.0,0,0,0,0,1
-D.J. Augustin,34,LAL,2022-03-01,Veteran Contract,Minimum Salary Exception,0,1.0,622467.0,622467.0,1,0,0,0,0
-Tomas Satoransky,30,WAS,2022-02-28,Veteran Contract,Minimum Salary Exception,0,1.0,468119.0,468119.0,1,1,0,0,0
-DeMarcus Cousins,31,DEN,2022-02-25,Veteran Contract,Minimum Salary Exception,0,1.0,683196.0,683196.0,0,0,0,0,1
-Jevon Carter,26,MIL,2022-02-24,Veteran Contract,Minimum Salary Exception,0,1.0,457149.0,457149.0,1,0,0,0,0
-Goran Dragic,35,BKN,2022-02-22,Veteran Contract,Minimum Salary Exception,0,1.0,728742.0,728742.0,1,1,0,0,0
-Tristan Thompson,30,CHI,2022-02-19,Veteran Contract,Biannual Exception,0,1.0,1000000.0,1000000.0,0,0,0,1,1
-DeAndre' Bembry,27,MIL,2022-02-16,Veteran Contract,Minimum Salary Exception,0,1.0,601867.0,601867.0,0,1,1,0,0
-Caleb Martin,26,MIA,2022-02-15,Veteran Contract,Minimum Salary Exception,0,1.0,527615.0,527615.0,0,0,1,0,0
-Patrick Beverley,33,MIN,2022-02-15,Veteran Extension,Bird Exception,1,1.0,13000000.0,13000000.0,1,1,0,0,0
-Ryan Arcidiacono,27,NYK,2022-02-13,Veteran Contract,Minimum Salary Exception,0,1.0,586136.0,586136.0,1,0,0,0,0
-Luke Kornet,26,BOS,2022-02-11,Veteran Contract,Minimum Salary Exception,0,1.0,606702.0,606702.0,0,0,0,1,1
-Danuel House Jr.,28,UTA,2022-02-11,Veteran Contract,Minimum Salary Exception,0,1.0,657596.0,657596.0,0,1,1,0,0
-Lance Stephenson,31,IND,2022-02-03,Veteran Contract,Minimum Salary Exception,0,1.0,924730.0,924730.0,0,1,1,0,0
-Stanley Johnson,25,LAL,2022-01-27,Veteran Contract,Minimum Salary Exception,0,1.5,3240137.0,1620069.0,0,0,1,1,0
-Marquese Chriss,24,DAL,2022-01-15,Veteran Contract,Minimum Salary Exception,0,2.0,3152449.0,1576225.0,0,0,0,1,0
-Bismack Biyombo,29,PHX,2022-01-11,Veteran Contract,Minimum Salary Exception,0,1.0,1366392.0,1366392.0,0,0,0,0,1
-Killian Tillie,23,MEM,2022-01-01,Veteran Contract,Room-MLE,0,2.0,3803250.0,1901625.0,0,0,0,0,1
-Alfonzo McKinnie,29,CHI,2021-12-26,Veteran Contract,Minimum Salary Exception,0,2.0,3126325.0,1563163.0,0,0,1,0,0
-Garrison Mathews,25,HOU,2021-12-18,Veteran Contract,MLE,0,3.5,8230253.0,2057563.0,0,1,0,0,0
-Wesley Matthews,35,MIL,2021-12-03,Veteran Contract,Minimum Salary Exception,0,1.0,1958495.0,1958495.0,0,1,1,0,0
-Gary Clark,27,NOP,2021-12-03,Veteran Contract,Minimum Salary Exception,0,1.0,1282006.0,1282006.0,0,0,0,1,0
-DeMarcus Cousins,31,MIL,2021-11-30,Veteran Contract,Minimum Salary Exception,0,1.0,2004041.0,2004041.0,0,0,0,0,1
-Jonas Valanciunas,29,NOP,2021-10-20,Veteran Extension,Bird Exception,1,2.0,30135000.0,15067500.0,0,0,0,0,1
-Jabari Parker,26,BOS,2021-10-19,Veteran Contract,Minimum Salary Exception,0,1.0,2239544.0,2239544.0,0,0,0,1,0
-Gary Payton II,28,GSW,2021-10-19,Veteran Contract,Minimum Salary Exception,0,1.0,1939350.0,1939350.0,1,0,0,0,0
-Dorian Finney-Smith,28,DAL,2021-10-18,Veteran Extension,Bird Exception,1,3.5,55560960.0,13890240.0,0,0,1,1,0
-Landry Shamet,24,PHX,2021-10-18,Rookie Scale Extension,Bird Exception,1,3.5,42500000.0,10625000.0,0,1,0,0,0
-Grayson Allen,26,MIL,2021-10-18,Rookie Scale Extension,Bird Exception,1,2.0,19550000.0,9775000.0,0,1,0,0,0
-Jaren Jackson Jr.,22,MEM,2021-10-18,Rookie Scale Extension,Bird Exception,1,4.0,104720000.0,26180000.0,0,0,0,1,1
-Kevin Huerter,23,ATL,2021-10-18,Rookie Scale Extension,Bird Exception,1,4.0,65000000.0,16250000.0,0,1,0,0,0
-Malcolm Brogdon,28,IND,2021-10-18,Veteran Extension,Bird Exception,1,2.0,45000000.0,22500000.0,1,1,0,0,0
-Mikal Bridges,25,PHX,2021-10-18,Designated Rookie Scale Extension,Bird Exception,1,4.0,90000000.0,22500000.0,0,1,1,0,0
-Mfiondu Kabengele,24,HOU,2021-10-17,Veteran Contract,Minimum Salary Exception,0,1.0,1669178.0,1669178.0,0,0,0,0,1
-Wendell Carter Jr.,22,ORL,2021-10-16,Rookie Scale Extension,Bird Exception,1,4.0,50000000.0,12500000.0,0,0,0,0,1
-Armoni Brooks,23,HOU,2021-10-14,Veteran Contract,MLE,0,3.5,7201486.0,1800372.0,1,1,0,0,0
-Ed Davis,32,CLE,2021-10-13,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,1
-Daniel Gafford,23,WAS,2021-10-12,Veteran Extension,Bird Exception,1,3.0,40182480.0,13394160.0,0,0,0,0,1
-Michael Porter Jr.,23,DEN,2021-09-29,Designated Rookie Scale Extension,Bird Exception,1,5.0,179299750.0,35859950.0,0,0,1,0,0
-Aaron Gordon,26,DEN,2021-09-27,Veteran Extension,Bird Exception,1,3.5,91440001.0,22860000.0,0,0,1,1,0
-Denzel Valentine,27,CLE,2021-09-22,Veteran Contract,Minimum Salary Exception,0,2.0,4133270.0,2066635.0,0,1,1,0,0
-Dante Exum,26,HOU,2021-09-17,Veteran Contract,Bird Exception,0,3.0,16215000.0,5405000.0,1,1,0,0,0
-Frank Ntilikina,23,DAL,2021-09-16,Veteran Contract,Minimum Salary Exception,0,2.0,3825574.0,1912787.0,1,0,0,0,0
-Jarred Vanderbilt,22,MIN,2021-09-15,Veteran Contract,Bird Exception,0,3.0,13527000.0,4509000.0,0,0,1,1,0
-Jordan McLaughlin,25,MIN,2021-09-15,Veteran Contract,Early-Bird Exception,0,3.0,6780000.0,2260000.0,1,0,0,0,0
-Paul Millsap,36,BKN,2021-09-10,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,0
-E'Twaun Moore,32,ORL,2021-09-09,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,1,1,0,0,0
-DeAndre Jordan,33,LAL,2021-09-09,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,0,1
-Timothe Luwawu-Cabarrot,26,ATL,2021-09-09,Veteran Contract,Minimum Salary Exception,0,1.0,1939350.0,1939350.0,0,1,1,0,0
-Keita Bates-Diop,25,SAS,2021-09-07,Veteran Contract,Minimum Salary Exception,0,2.0,3607937.0,1803969.0,0,0,1,0,0
-Alize Johnson,25,CHI,2021-09-07,Veteran Contract,Minimum Salary Exception,0,2.0,3607937.0,1803969.0,0,0,1,1,0
-LaMarcus Aldridge,36,BKN,2021-09-03,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,1
-Clint Capela,27,ATL,2021-09-01,Veteran Extension,Bird Exception,1,2.0,46881280.0,23440640.0,0,0,0,0,1
-Rajon Rondo,35,LAL,2021-08-31,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,1,0,0,0,0
-Sviatoslav Mykhailiuk,24,TOR,2021-08-31,Veteran Contract,Minimum Salary Exception,0,1.5,3607937.0,1803969.0,0,1,1,0,0
-Austin Rivers,29,DEN,2021-08-31,Veteran Contract,Minimum Salary Exception,0,1.0,2401537.0,2401537.0,1,1,0,0,0
-Lauri Markkanen,24,CHI,2021-08-28,Veteran Contract,Bird Exception,0,4.0,67470906.0,16867727.0,0,0,1,1,0
-Julius Randle,26,NYK,2021-08-27,Veteran Extension,Bird Exception,1,3.5,117089280.0,29272320.0,0,0,0,1,1
-Bryn Forbes,28,SAS,2021-08-25,Veteran Contract,Room-MLE,0,1.0,4500000.0,4500000.0,0,1,0,0,0
-Terry Rozier,27,CHA,2021-08-24,Veteran Extension,Bird Exception,1,4.0,96258694.0,24064674.0,1,1,0,0,0
-Robert Williams III,23,BOS,2021-08-24,Rookie Scale Extension,Bird Exception,1,4.0,54000000.0,13500000.0,0,0,0,0,1
-Josh Richardson,27,BOS,2021-08-23,Veteran Extension,Bird Exception,1,1.0,12196094.0,12196094.0,0,1,1,0,0
-Moritz Wagner,24,ORL,2021-08-23,Veteran Contract,Minimum Salary Exception,0,2.0,3607937.0,1803969.0,0,0,0,0,1
-Marcus Smart,27,BOS,2021-08-21,Veteran Extension,Bird Exception,1,4.0,77087996.0,19271999.0,1,1,0,0,0
-Torrey Craig,30,IND,2021-08-20,Veteran Contract,MLE,0,2.0,10000000.0,5000000.0,0,0,1,0,0
-Hamidou Diallo,23,DET,2021-08-19,Veteran Contract,Bird Exception,0,1.5,10400000.0,5200000.0,0,1,1,0,0
-Josh Hart,26,NOP,2021-08-19,Veteran Contract,Bird Exception,0,2.5,37920000.0,12640000.0,0,1,1,0,0
-JaMychal Green,31,DEN,2021-08-19,Veteran Contract,Non-Bird Exception,0,1.5,16800000.0,8400000.0,0,0,0,1,0
-Taj Gibson,36,NYK,2021-08-18,Veteran Contract,Room-MLE,0,2.0,10065500.0,5032750.0,0,0,0,1,1
-Evan Fournier,28,BOS,2021-08-17,Veteran Contract,Bird Exception,0,3.5,79000000.0,19750000.0,0,1,1,0,0
-Derrick Rose,32,NYK,2021-08-17,Veteran Contract,Early-Bird Exception,0,2.5,43562189.0,14520730.0,1,0,0,0,0
-Willy Hernangomez,27,NOP,2021-08-16,Veteran Contract,Non-Bird Exception,0,2.5,7330743.0,2443581.0,0,0,0,0,1
-JaVale McGee,33,PHX,2021-08-16,Veteran Contract,MLE,0,1.0,5000000.0,5000000.0,0,0,0,0,1
-Alec Burks,30,NYK,2021-08-16,Veteran Contract,Cap Room,0,2.5,30038400.0,10012800.0,0,1,0,0,0
-Udonis Haslem,41,MIA,2021-08-15,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,1
-Dennis Schroder,27,BOS,2021-08-13,Veteran Contract,Taxpayer-MLE,0,1.0,5890000.0,5890000.0,1,0,0,0,0
-Enes Kanter Freedom,29,BOS,2021-08-13,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,0,1
-Didi Louzada,22,NOP,2021-08-13,Veteran Contract,Non-Bird Exception,0,4.0,7686312.0,1921578.0,1,1,0,0,0
-Alex Len,28,SAC,2021-08-13,Veteran Contract,MLE,0,2.0,7650600.0,3825300.0,0,0,0,0,1
-Nicolas Batum,32,LAC,2021-08-13,Veteran Contract,Non-Bird Exception,0,1.5,6498559.0,3249280.0,0,1,1,0,0
-Kawhi Leonard,30,LAC,2021-08-12,Veteran Contract,Early-Bird Exception,0,3.5,176265152.0,44066288.0,0,0,1,0,0
-Thanasis Antetokounmpo,29,MIL,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.5,3607937.0,1803969.0,0,0,1,0,0
-Javonte Green,28,CHI,2021-08-11,Veteran Contract,Minimum Salary Exception,0,2.0,3484855.0,1742428.0,0,0,1,0,0
-Isaac Bonga,21,TOR,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,1729217.0,1729217.0,1,0,1,0,0
-Andre Iguodala,37,GSW,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,1,1,0,0
-Elfrid Payton,27,PHX,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,1,0,0,0,0
-Cory Joseph,29,DET,2021-08-11,Veteran Contract,Room-MLE,0,1.5,10065500.0,5032750.0,1,1,0,0,0
-Rodney McGruder,30,ATL,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,1939350.0,1939350.0,0,1,0,0,0
-Kemba Walker,31,NYK,2021-08-11,Veteran Contract,Cap Room,0,2.0,17894491.0,8947246.0,1,0,0,0,0
-Tony Bradley,23,CHI,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.5,3825574.0,1912787.0,0,0,0,0,1
-DeMar DeRozan,32,SAS,2021-08-11,Veteran Contract,Bird Exception,0,3.0,81900000.0,27300000.0,0,1,1,0,0
-Tony Snell,29,POR,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,0,1,1,0,0
-Zach Collins,23,SAS,2021-08-11,Veteran Contract,Cap Room,0,3.0,22050000.0,7350000.0,0,0,0,1,1
-Jeff Green,34,DEN,2021-08-11,Veteran Contract,MLE,0,1.5,10000000.0,5000000.0,0,0,1,1,0
-Will Barton,30,DEN,2021-08-11,Veteran Contract,Bird Exception,0,2.0,32000000.0,16000000.0,0,1,1,0,0
-Mike Muscala,30,OKC,2021-08-11,Veteran Contract,MLE,0,1.5,7000000.0,3500000.0,0,0,0,1,1
-Alex Caruso,27,CHI,2021-08-10,Veteran Contract,MLE,0,4.0,36980000.0,9245000.0,1,1,0,0,0
-Reggie Jackson,31,LAC,2021-08-10,Veteran Contract,Early-Bird Exception,0,2.0,21599760.0,10799880.0,1,0,0,0,0
-Luka Doncic,22,DAL,2021-08-10,Designated Rookie Scale Extension,Bird Exception,1,4.5,215159700.0,43031940.0,1,1,0,0,0
-Patty Mills,32,BKN,2021-08-10,Veteran Contract,MLE,0,1.5,12074500.0,6037250.0,1,0,0,0,0
-Tim Hardaway Jr.,29,DAL,2021-08-10,Veteran Contract,Bird Exception,0,4.0,75000000.0,18750000.0,0,1,1,0,0
-Frank Kaminsky,28,PHX,2021-08-09,Veteran Contract,Minimum Salary Exception,0,1.0,2089448.0,2089448.0,0,0,0,1,1
-Boban Marjanovic,32,DAL,2021-08-09,Veteran Contract,Early-Bird Exception,0,2.0,7000000.0,3500000.0,0,0,0,0,1
-Furkan Korkmaz,24,PHI,2021-08-09,Veteran Contract,Bird Exception,0,3.0,15000000.0,5000000.0,0,1,0,0,0
-Sterling Brown,26,DAL,2021-08-09,Veteran Contract,Biannual Exception,0,2.0,6000000.0,3000000.0,0,1,1,0,0
-Nerlens Noel,27,NYK,2021-08-09,Veteran Contract,Cap Room,0,2.5,31878000.0,10626000.0,0,0,0,1,1
-David Nwaba,28,HOU,2021-08-09,Veteran Contract,Early-Bird Exception,0,2.5,15066000.0,5022000.0,0,1,1,0,0
-Blake Griffin,32,BKN,2021-08-09,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,0
-Gorgui Dieng,31,ATL,2021-08-09,Veteran Contract,MLE,0,1.0,4000000.0,4000000.0,0,0,0,1,1
-Bruce Brown Jr.,24,BKN,2021-08-08,Veteran Contract,Bird Exception,0,1.0,4736102.0,4736102.0,0,1,0,0,0
-DeAndre' Bembry,27,BKN,2021-08-08,Veteran Contract,Minimum Salary Exception,0,1.0,1939350.0,1939350.0,0,1,1,0,0
-Lonzo Ball,23,NOP,2021-08-08,Veteran Contract,Bird Exception,0,3.5,84000000.0,21000000.0,1,0,0,0,0
-Garrett Temple,35,CHI,2021-08-08,Veteran Contract,Bird Exception,0,3.0,15466500.0,5155500.0,0,1,1,0,0
-Gary Trent Jr.,22,TOR,2021-08-08,Veteran Contract,Bird Exception,0,2.5,52590000.0,17530000.0,0,1,0,0,0
-Doug McDermott,29,IND,2021-08-07,Veteran Contract,Bird Exception,0,3.0,42000000.0,14000000.0,0,0,1,1,0
-Daniel Theis,29,CHI,2021-08-07,Veteran Contract,Bird Exception,0,3.5,35605510.0,8901378.0,0,0,0,0,1
-P.J. Tucker,36,MIA,2021-08-07,Veteran Contract,MLE,0,1.5,14350000.0,7175000.0,0,1,1,1,0
-Ish Smith,33,CHA,2021-08-07,Veteran Contract,Room-MLE,0,2.0,9225000.0,4612500.0,1,0,0,0,0
-Kelly Oubre Jr.,25,CHA,2021-08-07,Veteran Contract,Cap Room,0,2.0,24600000.0,12300000.0,0,0,1,0,0
-Victor Oladipo,29,MIA,2021-08-07,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,1,1,0,0,0
-Danny Green,34,PHI,2021-08-07,Veteran Contract,Bird Exception,0,2.0,20000000.0,10000000.0,0,1,0,0,0
-Justise Winslow,25,LAC,2021-08-07,Veteran Contract,Taxpayer-MLE,0,2.0,8000000.0,4000000.0,0,0,1,1,0
-Wayne Ellington,33,LAL,2021-08-07,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,1,0,0,0
-Maurice Harkless,28,SAC,2021-08-06,Veteran Contract,Non-Bird Exception,0,2.0,8912580.0,4456290.0,0,0,1,0,0
-Frank Jackson,23,DET,2021-08-06,Veteran Contract,Cap Room,0,1.5,6150000.0,3075000.0,1,0,0,0,0
-Sam Dekker,27,TOR,2021-08-06,Veteran Contract,Minimum Salary Exception,0,1.0,1789256.0,1789256.0,0,0,1,1,0
-Devonte' Graham,26,CHA,2021-08-06,Veteran Contract,Bird Exception,0,4.0,47300000.0,11825000.0,1,0,0,0,0
-Spencer Dinwiddie,28,BKN,2021-08-06,Veteran Contract,Bird Exception,0,3.0,61714284.0,20571428.0,1,1,0,0,0
-Cam Payne,26,PHX,2021-08-06,Veteran Contract,Early-Bird Exception,0,3.0,19000000.0,6333333.0,1,0,0,0,0
-Georges Niang,28,DET,2021-08-06,Veteran Contract,MLE,0,2.0,6765000.0,3382500.0,0,0,0,1,0
-Abdel Nader,27,PHX,2021-08-06,Veteran Contract,Bird Exception,0,1.5,4160000.0,2080000.0,0,0,1,0,0
-T.J. McConnell,29,IND,2021-08-06,Veteran Contract,Early-Bird Exception,0,4.0,35200000.0,8800000.0,1,0,0,0,0
-Saben Lee,22,DET,2021-08-06,Veteran Contract,Cap Room,0,2.5,5143840.0,1714613.0,1,0,0,0,0
-Richaun Holmes,27,SAC,2021-08-06,Veteran Contract,Early-Bird Exception,0,3.5,46522560.0,11630640.0,0,0,0,1,1
-John Collins,23,ATL,2021-08-06,Veteran Contract,Bird Exception,0,4.5,125000000.0,25000000.0,0,0,0,1,0
-Khem Birch,28,TOR,2021-08-06,Veteran Contract,MLE,0,3.0,20002500.0,6667500.0,0,0,0,0,1
-Trevor Ariza,36,LAL,2021-08-06,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,1,1,0,0
-Kendrick Nunn,26,LAL,2021-08-06,Veteran Contract,Taxpayer-MLE,0,1.5,10250000.0,5125000.0,0,1,0,0,0
-Trey Lyles,25,DET,2021-08-06,Veteran Contract,Cap Room,0,1.5,5125000.0,2562500.0,0,0,0,1,0
-George Hill,35,MIL,2021-08-06,Veteran Contract,MLE,0,2.0,8000000.0,4000000.0,1,0,0,0,0
-Hassan Whiteside,32,UTA,2021-08-06,Veteran Contract,Minimum Salary Exception,0,1.0,2401537.0,2401537.0,0,0,0,0,1
-Ömer Yurtseven,23,MIA,2021-08-06,Veteran Contract,Minimum Salary Exception,0,2.0,3241703.0,1620852.0,0,0,0,0,1
-Trae Young,22,ATL,2021-08-06,Designated Rookie Scale Extension,Bird Exception,1,4.5,215159700.0,43031940.0,1,0,0,0,0
-Lou Williams,34,ATL,2021-08-06,Veteran Contract,Bird Exception,0,1.0,5000000.0,5000000.0,1,1,0,0,0
-Max Strus,25,MIA,2021-08-06,Veteran Contract,Minimum Salary Exception,0,2.0,3484855.0,1742428.0,0,1,1,0,0
-Gabe Vincent,25,MIA,2021-08-06,Veteran Contract,Minimum Salary Exception,0,2.0,3484855.0,1742428.0,1,0,0,0,0
-Norman Powell,28,POR,2021-08-06,Veteran Contract,Bird Exception,0,5.0,90000000.0,18000000.0,0,1,0,0,0
-Bobby Portis,26,MIL,2021-08-06,Veteran Contract,Non-Bird Exception,0,1.5,8912580.0,4456290.0,0,0,0,1,1
-Duncan Robinson,27,MIA,2021-08-05,Veteran Contract,Bird Exception,0,4.5,90000000.0,18000000.0,0,0,1,1,0
-Solomon Hill,30,ATL,2021-08-05,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,0,0,1,0,0
-Raul Neto,29,WAS,2021-08-04,Veteran Contract,Minimum Salary Exception,0,1.0,2089448.0,2089448.0,1,0,0,0,0
-Cody Zeller,28,POR,2021-08-04,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,0,0,0,0,1
-Andre Drummond,27,PHI,2021-08-04,Veteran Contract,Minimum Salary Exception,0,1.0,2401537.0,2401537.0,0,0,0,0,1
-Jarrell Brantley,25,UTA,2021-07-30,Veteran Contract,Minimum Salary Exception,0,1.0,1669178.0,1669178.0,0,0,0,1,0
-Gary Payton II,28,GSW,2021-05-16,Veteran Contract,Minimum Salary Exception,0,2.0,1988909.0,994455.0,1,0,0,0,0
-Charlie Brown Jr.,24,OKC,2021-05-15,Veteran Contract,Minimum Salary Exception,0,2.0,1721397.0,860699.0,0,1,0,0,0
-Anderson Varejao,38,CLE,2021-05-14,Veteran Contract,Minimum Salary / Hardship Combined Exception,0,1.0,52700.0,52700.0,0,0,0,1,1
-Khyri Thomas,25,HOU,2021-05-14,Veteran Contract,MLE,0,3.5,6088954.0,1522239.0,0,1,0,0,0
-Cameron Reynolds,26,HOU,2021-05-14,Veteran Contract,Minimum Salary Exception,0,1.0,33299.0,33299.0,0,1,0,0,0
-Mike James,30,BKN,2021-05-13,Veteran Contract,Minimum Salary Exception,0,1.0,39608.0,39608.0,1,0,0,0,0
-Juan Toscano-Anderson,28,GSW,2021-05-13,Veteran Contract,Taxpayer-MLE,0,2.0,2059888.0,1029944.0,0,0,1,0,0
-Ignas Brazdeikis,22,ORL,2021-05-12,Veteran Contract,Minimum Salary Exception,0,1.0,49510.0,49510.0,0,0,1,0,0
-Donta Hall,23,ORL,2021-05-09,Veteran Contract,Minimum Salary / Hardship Combined Exception,0,1.0,79216.0,79216.0,0,0,0,1,0
-Anthony Tolliver,35,PHI,2021-05-02,Veteran Contract,Minimum Salary Exception,0,2.0,2956493.0,1478247.0,0,0,1,1,0
-Mfiondu Kabengele,23,CLE,2021-05-01,Veteran Contract,MLE,0,3.0,3706764.0,1235588.0,0,0,0,0,1
-Austin Rivers,28,DEN,2021-04-30,Veteran Contract,Minimum Salary Exception,0,1.0,270142.0,270142.0,1,1,0,0,0
-Yogi Ferrell,27,LAC,2021-04-29,Veteran Contract,Minimum Salary Exception,0,2.0,2191180.0,1095590.0,1,1,0,0,0
-Rondae Hollis-Jefferson,26,POR,2021-04-28,Veteran Contract,Minimum Salary Exception,0,1.0,245031.0,245031.0,0,0,1,0,0
-Damian Jones,25,SAC,2021-04-27,Veteran Contract,Minimum Salary Exception,0,2.0,2214976.0,1107488.0,0,0,0,0,1
-Chimezie Metu,24,SAC,2021-04-27,Veteran Contract,MLE,0,3.0,4373656.0,1457885.0,0,0,0,1,0
-Moritz Wagner,24,ORL,2021-04-27,Veteran Contract,Minimum Salary Exception,0,1.0,221995.0,221995.0,0,0,0,0,1
-DeMarcus Cousins,30,LAC,2021-04-26,Veteran Contract,Minimum Salary Exception,0,1.0,368903.0,368903.0,0,0,0,0,1
-Tim Frazier,30,MEM,2021-04-24,Veteran Contract,Minimum Salary Exception,0,1.0,319573.0,319573.0,1,0,0,0,0
-Norvel Pelle,28,NYK,2021-04-22,Veteran Contract,Cap Room,0,2.5,4048331.0,1349444.0,0,0,0,0,1
-Oshae Brissett,22,IND,2021-04-21,Veteran Contract,MLE,0,2.5,4305784.0,1435261.0,0,0,1,1,0
-Yuta Watanabe,26,TOR,2021-04-18,Veteran Contract,Minimum Salary Exception,0,2.0,2084689.0,1042345.0,0,0,1,0,0
-Jabari Parker,26,BOS,2021-04-16,Veteran Contract,Minimum Salary Exception,0,2.0,2713763.0,1356882.0,0,0,0,1,0
-Alize Johnson,24,BKN,2021-04-11,Veteran Contract,Taxpayer-MLE,0,3.0,4073247.0,1357749.0,0,0,1,1,0
-Khem Birch,28,TOR,2021-04-10,Veteran Contract,Minimum Salary Exception,0,1.0,425463.0,425463.0,0,0,0,0,1
-Dewayne Dedmon,31,MIA,2021-04-08,Veteran Contract,Minimum Salary Exception,0,1.0,580811.0,580811.0,0,0,0,0,1
-Tyler Cook,23,DET,2021-04-07,Veteran Contract,Minimum Salary Exception,0,2.0,2097674.0,1048837.0,0,0,0,1,0
-Ben McLemore,28,LAL,2021-04-06,Veteran Contract,Minimum Salary Exception,0,1.0,610596.0,610596.0,0,1,0,0,0
-Jrue Holiday,30,MIL,2021-04-04,Veteran Extension,Bird Exception,1,3.5,158665573.0,39666393.0,1,1,0,0,0
-Jeff Teague,32,MIL,2021-04-01,Veteran Contract,Minimum Salary Exception,0,1.0,808073.0,808073.0,1,0,0,0,0
-Gorgui Dieng,31,SAS,2021-03-29,Veteran Contract,MLE,0,1.0,1000000.0,1000000.0,0,0,0,1,1
-Moses Brown,21,OKC,2021-03-28,Veteran Contract,MLE,0,3.5,6796049.0,1699012.0,0,0,0,0,1
-Andre Drummond,27,LAL,2021-03-28,Veteran Contract,Minimum Salary Exception,0,1.0,794536.0,794536.0,0,0,0,0,1
-LaMarcus Aldridge,35,BKN,2021-03-28,Veteran Contract,Minimum Salary Exception,0,1.0,878340.0,878340.0,0,0,0,1,1
-Ersan Ilyasova,33,UTA,2021-03-10,Veteran Contract,Minimum Salary Exception,0,1.0,1194542.0,1194542.0,0,0,0,1,0
-Blake Griffin,31,BKN,2021-03-08,Veteran Contract,Minimum Salary Exception,0,1.0,1229676.0,1229676.0,0,0,0,1,0
-André Roberson,29,BKN,2021-02-16,Veteran Contract,Minimum Salary Exception,0,1.0,1340333.0,1340333.0,0,1,1,0,0
-Noah Vonleh,25,BKN,2021-02-08,Veteran Contract,Minimum Salary Exception,0,1.0,1361659.0,1361659.0,0,0,0,1,1
-Iman Shumpert,30,BKN,2021-01-30,Veteran Contract,Minimum Salary Exception,0,1.0,1708770.0,1708770.0,1,1,0,0,0
-Norvel Pelle,27,BKN,2021-01-28,Veteran Contract,Minimum Salary Exception,0,2.0,2780915.0,1390458.0,0,0,0,0,1
-Alex Len,27,WAS,2021-01-23,Veteran Contract,Minimum Salary Exception,0,1.0,1697755.0,1697755.0,0,0,0,0,1
-Taj Gibson,35,NYK,2021-01-07,Veteran Contract,Minimum Salary Exception,0,1.0,2283684.0,2283684.0,0,0,0,1,1
+PLAYER,AGE,TEAM,DATE,TYPE,METHOD,EXTENSION,LENGTH,VALUE,AAV,PG,SG,SF,PF,C,MID SEASON,SEASON
+Patty Mills,35,MIA,2024-03-06,Veteran Contract,Minimum Salary Exception,0,1.0,753186.0,753186.0,1,0,0,0,0,True,2023-24
+Malik Shake Milton,27,NYK,2024-03-05,Veteran Contract,Minimum Salary Exception,0,1.0,552938.0,552938.0,0,1,0,0,0,True,2023-24
+Kelly Olynyk,32,TOR,2024-03-04,Veteran Extension,Bird Exception,1,2.0,26250000.0,13125000.0,0,0,0,1,1,True,2023-24
+Kendall Brown,20,IND,2024-03-03,Veteran Contract,Room-MLE,0,2.5,5522270.0,1840757.0,0,1,1,0,0,True,2023-24
+A.J. Lawson,23,DAL,2024-03-03,Veteran Contract,MLE,0,4.0,7912022.0,1978006.0,0,1,0,0,0,True,2023-24
+Mike Muscala,32,OKC,2024-03-02,Veteran Contract,Minimum Salary Exception,0,1.0,808297.0,808297.0,0,0,0,1,1,True,2023-24
+Dominick Barlow,20,SAS,2024-03-02,Veteran Contract,Minimum Salary Exception,0,1.0,465975.0,465975.0,0,0,0,1,1,True,2023-24
+Eugene Omoruyi,27,WAS,2024-03-01,Veteran Contract,MLE,0,2.0,3096970.0,1548485.0,0,0,1,0,0,True,2023-24
+Trent Forrest,25,ATL,2024-02-29,Veteran Contract,Minimum Salary Exception,0,1.0,553151.0,553151.0,1,1,0,0,0,True,2023-24
+Aleksej Pokusevski,22,CHA,2024-02-28,Veteran Contract,Minimum Salary Exception,0,2.0,2838428.0,1419214.0,0,0,0,1,1,True,2023-24
+Stanley Umude,24,DET,2024-02-23,Veteran Contract,Minimum Salary Exception,0,2.0,2659153.0,1329577.0,0,1,0,0,0,True,2023-24
+Lester Quinones,23,GSW,2024-02-22,Veteran Contract,Minimum Salary Exception,0,1.0,548815.0,548815.0,0,1,0,0,0,True,2023-24
+Mike Conley,36,MIN,2024-02-22,Veteran Extension,Bird Exception,1,2.0,20750000.0,10375000.0,1,0,0,0,0,True,2023-24
+Thaddeus Young,35,PHX,2024-02-20,Veteran Contract,Minimum Salary Exception,0,1.0,1010371.0,1010371.0,0,0,0,1,0,True,2023-24
+Delon Wright,31,MIA,2024-02-18,Veteran Contract,Minimum Salary Exception,0,1.0,947205.0,947205.0,1,1,0,0,0,True,2023-24
+Danilo Gallinari,35,MIL,2024-02-18,Veteran Contract,Minimum Salary Exception,0,1.0,1047112.0,1047112.0,0,0,1,1,0,True,2023-24
+Jeremiah Robinson-Earl,23,NOP,2024-02-16,Veteran Contract,Minimum Salary Exception,0,2.0,2845813.0,1422907.0,0,0,0,1,0,True,2023-24
+Kyle Lowry,37,PHI,2024-02-13,Veteran Contract,MLE,0,1.0,2795839.0,2795839.0,1,0,0,0,0,True,2023-24
+Spencer Dinwiddie,30,LAL,2024-02-10,Veteran Contract,MLE,0,1.0,1554655.0,1554655.0,1,1,0,0,0,True,2023-24
+Bismack Biyombo,31,OKC,2024-02-10,Veteran Contract,Minimum Salary Exception,0,1.0,1194075.0,1194075.0,0,0,0,0,1,True,2023-24
+Lindy Waters III,26,OKC,2024-02-09,Veteran Contract,Minimum Salary Exception,0,1.5,2963065.0,1481533.0,0,1,0,0,0,True,2023-24
+Keon Ellis,24,SAC,2024-02-09,Veteran Contract,Room-MLE,0,2.5,5105710.0,1701903.0,0,1,0,0,0,True,2023-24
+James Johnson,36,IND,2024-02-08,Veteran Contract,Minimum Salary Exception,0,1.0,1230816.0,1230816.0,0,0,1,1,0,True,2023-24
+Vince Williams Jr.,23,MEM,2024-01-10,Veteran Contract,MLE,0,3.5,9144340.0,2286085.0,0,0,1,0,0,True,2023-24
+Miles McBride,23,NYK,2023-12-30,Veteran Extension,Bird Exception,1,3.0,13000000.0,4333333.0,1,0,0,0,0,True,2023-24
+Juan Toscano-Anderson,30,SAC,2023-12-15,Veteran Contract,Minimum Salary Exception,0,1.0,1517989.0,1517989.0,0,0,1,0,0,True,2023-24
+Taj Gibson,38,NYK,2023-12-15,Veteran Contract,Minimum Salary Exception,0,1.0,2241188.0,2241188.0,0,0,0,1,1,True,2023-24
+James Johnson,36,IND,2023-12-15,Veteran Contract,Minimum Salary Exception,0,1.0,2241188.0,2241188.0,0,0,1,1,0,True,2023-24
+Daniel Theis,31,LAC,2023-11-17,Veteran Contract,Minimum Salary Exception,0,1.0,2179511.0,2179511.0,0,0,0,0,1,True,2023-24
+Joshua Primo,20,LAC,2023-11-15,Veteran Contract,Minimum Salary Exception,0,2.0,3961311.0,1980656.0,0,1,0,0,0,True,2023-24
+Skylar Mays,26,POR,2023-11-12,Veteran Contract,Minimum Salary Exception,0,1.0,1863879.0,1863879.0,1,1,0,0,0,True,2023-24
+Kevin Knox,24,DET,2023-11-08,Veteran Contract,Minimum Salary Exception,0,1.0,2144320.0,2144320.0,0,0,1,1,0,True,2023-24
+Bismack Biyombo,31,MEM,2023-11-01,Veteran Contract,MLE,0,1.0,5000000.0,5000000.0,0,0,0,0,1,True,2023-24
+Ish Smith,35,CHA,2023-10-24,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,1,0,0,0,0,True,2023-24
+Onyeka Okongwu,22,ATL,2023-10-23,Rookie Scale Extension,Bird Exception,1,4.0,62000000.0,15500000.0,0,0,0,1,1,False,2022-23
+Cole Anthony,23,ORL,2023-10-23,Rookie Scale Extension,Bird Exception,0,2.5,39100000.0,13033333.0,1,0,0,0,0,False,2022-23
+Jaden McDaniels,23,MIN,2023-10-23,Rookie Scale Extension,Bird Exception,1,5.0,136000000.0,27200000.0,0,0,1,1,0,False,2022-23
+Josh Green,22,DAL,2023-10-23,Rookie Scale Extension,Bird Exception,1,3.0,41000000.0,13666667.0,0,1,1,0,0,False,2022-23
+Aaron Nesmith,24,IND,2023-10-23,Rookie Scale Extension,Bird Exception,1,3.0,33000000.0,11000000.0,0,0,1,0,0,False,2022-23
+Deni Avdija,22,WAS,2023-10-23,Rookie Scale Extension,Bird Exception,1,4.0,55000000.0,13750000.0,0,1,1,0,0,False,2022-23
+Zeke Nnaji,22,DEN,2023-10-23,Rookie Scale Extension,Bird Exception,1,3.5,32000001.0,8000000.0,0,0,0,1,0,False,2022-23
+Zach Collins,25,SAS,2023-10-22,Veteran Extension,Bird Exception,1,2.0,34821696.0,17410848.0,0,0,0,1,1,False,2022-23
+Dylan Windler,27,NYK,2023-10-21,Veteran Contract,Minimum Salary Exception,0,1.0,2165000.0,2165000.0,0,1,1,0,0,False,2022-23
+Dru Smith,25,MIA,2023-10-21,Veteran Contract,Minimum Salary Exception,0,2.0,3922462.0,1961231.0,1,0,0,0,0,False,2022-23
+Payton Pritchard,25,BOS,2023-10-10,Rookie Scale Extension,Bird Exception,1,4.0,30000000.0,7500000.0,1,0,0,0,0,False,2022-23
+Reggie Bullock,32,HOU,2023-10-04,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,1,0,0,False,2022-23
+Devin Vassell,23,SAS,2023-10-03,Rookie Scale Extension,Bird Exception,1,5.0,146000000.0,29200000.0,0,1,0,0,0,False,2022-23
+Cam Payne,29,MIL,2023-10-01,Veteran Contract,Minimum Salary Exception,0,1.0,2891467.0,2891467.0,1,0,0,0,0,False,2022-23
+Kelly Oubre Jr.,27,PHI,2023-09-26,Veteran Contract,Minimum Salary Exception,0,1.0,2891467.0,2891467.0,0,0,1,0,0,False,2022-23
+Boban Marjanovic,35,HOU,2023-09-19,Veteran Contract,Minimum Salary Exception,0,1.0,2891467.0,2891467.0,0,0,0,0,1,False,2022-23
+Jarred Vanderbilt,24,LAL,2023-09-18,Veteran Extension,Bird Exception,1,3.5,48000000.0,12000000.0,0,0,1,1,0,False,2022-23
+Taj Gibson,38,WAS,2023-09-15,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,1,1,False,2022-23
+Danny Green,36,PHI,2023-09-13,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,0,0,0,False,2022-23
+Tristan Thompson,32,CLE,2023-09-12,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,1,1,False,2022-23
+Christian Wood,27,LAL,2023-09-06,Veteran Contract,Minimum Salary Exception,0,1.5,5745889.0,2872945.0,0,0,0,1,0,False,2022-23
+JaVale McGee,35,SAC,2023-09-02,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1,False,2022-23
+Sviatoslav Mykhailiuk,26,BOS,2023-09-01,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,1,1,0,0,False,2022-23
+P.J. Washington,25,CHA,2023-08-29,Veteran Contract,Bird Exception,0,3.0,48000000.0,16000000.0,0,0,0,1,0,False,2022-23
+Moses Brown,23,POR,2023-08-22,Veteran Contract,Minimum Salary Exception,0,1.0,2165000.0,2165000.0,0,0,0,0,1,False,2022-23
+Derrick Jones Jr.,26,DAL,2023-08-18,Veteran Contract,Minimum Salary Exception,0,1.0,2709849.0,2709849.0,0,0,1,1,0,False,2022-23
+Terry Taylor,23,CHI,2023-08-14,Veteran Contract,Minimum Salary Exception,0,2.0,4216676.0,2108338.0,0,1,1,0,0,False,2022-23
+Josh Hart,28,NYK,2023-08-09,Veteran Extension,Bird Exception,1,3.5,80915280.0,20228820.0,0,1,1,0,0,False,2022-23
+Neemias Queta,24,SAC,2023-08-08,Veteran Contract,Minimum Salary Exception,0,2.0,4216676.0,2108338.0,0,0,0,0,1,False,2022-23
+Frank Ntilikina,25,CHA,2023-08-05,Veteran Contract,Minimum Salary Exception,0,1.0,2528233.0,2528233.0,1,0,0,0,0,False,2022-23
+Trendon Watford,22,BKN,2023-08-03,Veteran Contract,Minimum Salary Exception,0,1.0,2019706.0,2019706.0,0,0,1,1,0,False,2022-23
+Garrett Temple,37,TOR,2023-07-31,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,1,0,0,False,2022-23
+Thanasis Antetokounmpo,31,MIL,2023-07-27,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,0,1,0,0,False,2022-23
+Sandro Mamukelashvili,24,SAS,2023-07-27,Veteran Contract,Minimum Salary Exception,0,1.0,2019706.0,2019706.0,0,0,0,1,1,False,2022-23
+Jeff Dowtin,26,TOR,2023-07-22,Veteran Contract,Minimum Salary Exception,0,1.0,2019706.0,2019706.0,1,1,0,0,0,False,2022-23
+Ayo Dosunmu,23,CHI,2023-07-22,Veteran Contract,Early-Bird Exception,0,3.0,21000000.0,7000000.0,1,0,0,0,0,False,2022-23
+Nerlens Noel,29,SAC,2023-07-21,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,1,1,False,2022-23
+Wesley Matthews,36,ATL,2023-07-21,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,1,0,0,False,2022-23
+Jack White,25,OKC,2023-07-20,Veteran Contract,Minimum Salary Exception,0,1.5,3922462.0,1961231.0,0,0,1,0,0,False,2022-23
+DeAndre Jordan,34,DEN,2023-07-20,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1,False,2022-23
+Bol Bol,23,PHX,2023-07-18,Veteran Contract,Minimum Salary Exception,0,1.0,2165000.0,2165000.0,0,0,0,0,1,False,2022-23
+Tre Jones,23,SAS,2023-07-18,Veteran Contract,Bird Exception,0,2.0,20000000.0,10000000.0,1,0,0,0,0,False,2022-23
+Ömer Yurtseven,25,UTA,2023-07-17,Veteran Contract,Cap Room,0,2.0,5460000.0,2730000.0,0,0,0,0,1,False,2022-23
+Montrezl Harrell,29,PHI,2023-07-17,Veteran Contract,Minimum Salary Exception,0,1.0,2891467.0,2891467.0,0,0,0,1,1,False,2022-23
+Dalano Banton,23,BOS,2023-07-17,Veteran Contract,Minimum Salary Exception,0,1.5,4216676.0,2108338.0,1,0,0,0,0,False,2022-23
+Darius Bazley,23,BKN,2023-07-16,Veteran Contract,Minimum Salary Exception,0,1.0,2165000.0,2165000.0,0,0,0,1,0,False,2022-23
+Reggie Jackson,33,DEN,2023-07-16,Veteran Contract,Taxpayer-MLE,0,1.5,10250000.0,5125000.0,1,0,0,0,0,False,2022-23
+Torrey Craig,32,CHI,2023-07-15,Veteran Contract,Minimum Salary Exception,0,1.5,5373575.0,2686788.0,0,0,1,0,0,False,2022-23
+Dante Exum,28,DAL,2023-07-14,Veteran Contract,MLE,0,2.0,6150000.0,3075000.0,1,1,0,0,0,False,2022-23
+Seth Curry,32,DAL,2023-07-14,Veteran Contract,MLE,0,2.0,8000000.0,4000000.0,1,1,0,0,0,False,2022-23
+Dario Saric,29,GSW,2023-07-12,Veteran Contract,Minimum Salary Exception,0,1.0,2709849.0,2709849.0,0,0,0,1,0,False,2022-23
+Dennis Schroder,29,TOR,2023-07-12,Veteran Contract,MLE,0,2.0,25430250.0,12715125.0,1,0,0,0,0,False,2022-23
+Kristaps Porzingis,27,BOS,2023-07-12,Veteran Extension,Bird Exception,1,2.0,60000000.0,30000000.0,0,0,0,1,0,False,2022-23
+Isaiah Stewart,22,DET,2023-07-11,Rookie Scale Extension,Bird Exception,1,3.5,64000000.0,16000000.0,0,0,0,1,1,False,2022-23
+Grant Williams,24,BOS,2023-07-11,Veteran Contract,Bird Exception,0,4.0,53341500.0,13335375.0,0,0,0,1,0,False,2022-23
+Moritz Wagner,26,ORL,2023-07-11,Veteran Contract,Bird Exception,0,1.5,16000000.0,8000000.0,0,0,0,0,1,False,2022-23
+Josh Okogie,24,PHX,2023-07-11,Veteran Contract,Non-Bird Exception,0,1.5,5772671.0,2886336.0,0,1,0,0,0,False,2022-23
+Aaron Holiday,26,HOU,2023-07-10,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,1,0,0,0,0,False,2022-23
+Lonnie Walker IV,24,BKN,2023-07-10,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,1,0,0,0,False,2022-23
+Jevon Carter,27,CHI,2023-07-10,Veteran Contract,MLE,0,2.5,19500000.0,6500000.0,1,0,0,0,0,False,2022-23
+Dejounte Murray,26,ATL,2023-07-09,Veteran Extension,Bird Exception,0,3.5,120118201.0,30029550.0,1,1,0,0,0,False,2022-23
+Mo Bamba,25,PHI,2023-07-09,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,0,0,0,1,False,2022-23
+Alex Len,30,SAC,2023-07-09,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1,False,2022-23
+Dwight Powell,31,DAL,2023-07-09,Veteran Contract,Bird Exception,0,2.5,12000000.0,4000000.0,0,0,0,1,1,False,2022-23
+Patrick Beverley,34,PHI,2023-07-09,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,1,1,0,0,0,False,2022-23
+Nickeil Alexander-Walker,24,MIN,2023-07-09,Veteran Contract,Bird Exception,0,2.0,9000000.0,4500000.0,0,1,0,0,0,False,2022-23
+Jerami Grant,29,POR,2023-07-09,Veteran Contract,Bird Exception,0,4.5,160000000.0,32000000.0,0,0,1,1,0,False,2022-23
+Paul Reed,24,PHI,2023-07-08,Veteran Contract,Bird Exception,0,3.0,23555150.0,7851717.0,0,0,0,1,1,False,2022-23
+Anthony Edwards,21,MIN,2023-07-08,Rookie Scale Extension,Bird Exception,1,5.0,216953495.0,43390699.0,0,1,1,0,0,False,2022-23
+Donte DiVincenzo,26,NYK,2023-07-08,Veteran Contract,MLE,0,4.0,49870000.0,12467500.0,0,1,0,0,0,False,2022-23
+Jae Crowder,33,MIL,2023-07-08,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,1,1,0,False,2022-23
+D'Angelo Russell,27,LAL,2023-07-08,Veteran Contract,Bird Exception,0,1.5,37400000.0,18700000.0,1,0,0,0,0,False,2022-23
+Dennis Smith Jr.,25,BKN,2023-07-08,Veteran Contract,Minimum Salary Exception,0,1.0,2528233.0,2528233.0,1,0,0,0,0,False,2022-23
+Desmond Bane,25,MEM,2023-07-08,Rookie Scale Extension,Bird Exception,1,5.0,205900000.0,41180000.0,0,1,1,0,0,False,2022-23
+Malik Shake Milton,26,MIN,2023-07-08,Veteran Contract,MLE,0,2.0,10000000.0,5000000.0,0,1,0,0,0,False,2022-23
+Troy Brown Jr.,23,MIN,2023-07-08,Veteran Contract,MLE,0,2.0,8000000.0,4000000.0,0,1,1,0,0,False,2022-23
+Draymond Green,33,GSW,2023-07-08,Veteran Contract,Bird Exception,0,3.5,100000000.0,25000000.0,0,0,1,1,0,False,2022-23
+AJ Green,23,MIL,2023-07-07,Veteran Contract,Non-Bird Exception,0,3.0,6324049.0,2108016.0,1,0,0,0,0,False,2022-23
+Jordan Clarkson,31,UTA,2023-07-07,Veteran Extension,Bird Exception,0,3.0,53000001.0,17666667.0,1,1,0,0,0,False,2022-23
+Dillon Brooks,27,MEM,2023-07-07,Veteran Contract,Bird Exception,0,4.0,90000001.0,22500000.0,0,1,1,0,0,False,2022-23
+Fred VanVleet,29,HOU,2023-07-07,Veteran Contract,Cap Room,0,2.5,128539845.0,42846615.0,1,0,0,0,0,False,2022-23
+Joe Ingles,35,ORL,2023-07-07,Veteran Contract,Cap Room,0,1.5,22000000.0,11000000.0,0,0,1,1,0,False,2022-23
+Kyrie Irving,31,DAL,2023-07-07,Veteran Contract,Bird Exception,0,2.5,126000000.0,42000000.0,1,1,0,0,0,False,2022-23
+Damion Lee,30,PHX,2023-07-07,Veteran Contract,Minimum Salary Exception,0,1.5,5373575.0,2686788.0,0,1,0,0,0,False,2022-23
+Kyle Kuzma,27,WAS,2023-07-07,Veteran Contract,Bird Exception,0,4.0,102200000.0,25550000.0,0,0,0,1,0,False,2022-23
+Coby White,23,CHI,2023-07-07,Veteran Contract,Bird Exception,0,3.0,39999999.0,13333333.0,1,1,0,0,0,False,2022-23
+Trey Lyles,27,SAC,2023-07-07,Veteran Contract,Early-Bird Exception,0,2.0,18400000.0,9200000.0,0,0,0,1,0,False,2022-23
+Tyrese Haliburton,23,IND,2023-07-06,Rookie Scale Extension,Bird Exception,1,5.0,216953495.0,43390699.0,1,0,0,0,0,False,2022-23
+Matisse Thybulle,26,POR,2023-07-06,Veteran Contract,Bird Exception,0,2.5,33075000.0,11025000.0,0,1,0,0,0,False,2022-23
+E.J. Liddell,22,NOP,2023-07-06,Veteran Contract,MLE,0,2.5,6224049.0,2074683.0,0,0,0,1,0,False,2022-23
+Malik Beasley,26,MIL,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,2709849.0,2709849.0,0,1,0,0,0,False,2022-23
+Robin Lopez,35,MIL,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1,False,2022-23
+Mason Plumlee,33,LAC,2023-07-06,Veteran Contract,Bird Exception,0,1.0,5000000.0,5000000.0,0,0,0,0,1,False,2022-23
+Cory Joseph,31,GSW,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,1,1,0,0,0,False,2022-23
+Justin Holiday,34,DEN,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,1,1,0,0,False,2022-23
+Cody Zeller,30,NOP,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,3196448.0,3196448.0,0,0,0,0,1,False,2022-23
+Eric Gordon,34,PHX,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,6552719.0,3276360.0,1,1,0,0,0,False,2022-23
+Domantas Sabonis,27,SAC,2023-07-06,Veteran Extension,Bird Exception,0,5.0,216616000.0,43323200.0,0,0,0,1,1,False,2022-23
+Jeff Green,36,HOU,2023-07-06,Veteran Contract,Cap Room,0,1.5,19200000.0,9600000.0,0,0,1,1,0,False,2022-23
+Jalen McDaniels,25,TOR,2023-07-06,Veteran Contract,Biannual Exception,0,2.0,9257800.0,4628900.0,0,0,0,1,0,False,2022-23
+Russell Westbrook,34,LAC,2023-07-06,Veteran Contract,Non-Bird Exception,0,1.5,7863263.0,3931632.0,1,0,0,0,0,False,2022-23
+Jock Landale,27,HOU,2023-07-06,Veteran Contract,Cap Room,0,3.5,32000000.0,8000000.0,0,0,0,1,1,False,2022-23
+Ty Jerome,25,CLE,2023-07-06,Veteran Contract,Biannual Exception,0,2.0,5000000.0,2500000.0,1,1,0,0,0,False,2022-23
+LaMelo Ball,21,CHA,2023-07-06,Rookie Scale Extension,Bird Exception,1,5.0,216953495.0,43390699.0,1,1,0,0,0,False,2022-23
+Austin Reaves,25,LAL,2023-07-06,Veteran Contract,Early-Bird Exception,0,3.5,53827872.0,13456968.0,0,1,0,0,0,False,2022-23
+Brook Lopez,35,MIL,2023-07-06,Veteran Contract,Bird Exception,0,2.0,48000000.0,24000000.0,0,0,0,0,1,False,2022-23
+Jaxson Hayes,23,LAL,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,4628946.0,2314473.0,0,0,0,1,1,False,2022-23
+Max Strus,27,MIA,2023-07-06,Veteran Extension,Bird Exception,0,4.0,62297040.0,15574260.0,0,1,1,0,0,False,2022-23
+Cameron Johnson,27,BKN,2023-07-06,Veteran Contract,Bird Exception,0,4.0,108000000.0,27000000.0,0,0,1,1,0,False,2022-23
+Cam Reddish,23,LAL,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,4628946.0,2314473.0,0,0,1,0,0,False,2022-23
+Oshae Brissett,25,BOS,2023-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,4628946.0,2314473.0,0,0,1,1,0,False,2022-23
+Julian Champagnie,22,SAS,2023-07-06,Veteran Contract,Cap Room,0,3.5,12000000.0,3000000.0,0,1,1,0,0,False,2022-23
+Rui Hachimura,25,LAL,2023-07-06,Veteran Contract,Bird Exception,0,3.0,51000000.0,17000000.0,0,0,0,1,0,False,2022-23
+Kevin Love,34,MIA,2023-07-06,Veteran Contract,Non-Bird Exception,0,1.5,7863263.0,3931632.0,0,0,0,1,1,False,2022-23
+Herbert Jones,24,NOP,2023-07-06,Veteran Contract,Early-Bird Exception,0,4.0,53827872.0,13456968.0,0,1,1,0,0,False,2022-23
+Gabe Vincent,27,LAL,2023-07-06,Veteran Contract,MLE,0,3.0,33000000.0,11000000.0,1,0,0,0,0,False,2022-23
+Jakob Poeltl,27,TOR,2023-07-06,Veteran Contract,Bird Exception,0,3.5,80000000.0,20000000.0,0,0,0,0,1,False,2022-23
+Khris Middleton,31,MIL,2023-07-06,Veteran Contract,Bird Exception,0,2.5,102185185.0,34061728.0,0,1,1,0,0,False,2022-23
+Georges Niang,30,CLE,2023-07-06,Veteran Contract,MLE,0,3.0,25500000.0,8500000.0,0,0,0,1,0,False,2022-23
+Bruce Brown Jr.,26,IND,2023-07-06,Veteran Contract,Cap Room,0,1.5,45000000.0,22500000.0,0,1,0,0,0,False,2022-23
+Taurean Prince,29,LAL,2023-07-06,Veteran Contract,Biannual Exception,0,1.0,4516000.0,4516000.0,0,0,1,0,0,False,2022-23
+Caris LeVert,28,CLE,2023-07-06,Veteran Contract,Bird Exception,0,2.0,32000000.0,16000000.0,0,1,1,0,0,False,2022-23
+Derrick Rose,34,MEM,2023-07-03,Veteran Contract,Minimum Salary Exception,0,2.0,6552719.0,3276360.0,1,0,0,0,0,False,2022-23
+Yuta Watanabe,28,PHX,2023-07-02,Veteran Contract,Minimum Salary Exception,0,1.5,5001258.0,2500629.0,0,0,1,0,0,False,2022-23
+Chimezie Metu,26,PHX,2023-07-02,Veteran Contract,Minimum Salary Exception,0,1.0,2346614.0,2346614.0,0,0,0,1,0,False,2022-23
+Keita Bates-Diop,27,PHX,2023-07-02,Veteran Contract,Minimum Salary Exception,0,1.5,5001258.0,2500629.0,0,0,1,0,0,False,2022-23
+Drew Eubanks,26,PHX,2023-07-02,Veteran Contract,Minimum Salary Exception,0,1.5,5001258.0,2500629.0,0,0,0,1,0,False,2022-23
+Thomas Bryant,25,MIA,2023-07-01,Veteran Contract,Minimum Salary Exception,0,1.5,5373575.0,2686788.0,0,0,0,0,1,False,2022-23
+Josh Richardson,29,MIA,2023-07-01,Veteran Contract,Minimum Salary Exception,0,1.5,5942620.0,2971310.0,0,1,1,0,0,False,2022-23
+Orlando Robinson,22,MIA,2023-07-01,Veteran Contract,Minimum Salary Exception,0,2.0,3922462.0,1961231.0,0,0,0,1,1,False,2022-23
+Miles Bridges,25,CHA,2023-06-28,Veteran Contract,Bird Exception,0,1.0,7921300.0,7921300.0,0,0,1,1,0,False,2022-23
+Harrison Barnes,31,SAC,2023-06-28,Veteran Extension,Bird Exception,0,3.0,54000000.0,18000000.0,0,0,1,1,0,False,2022-23
+Nikola Vucevic,32,CHI,2023-06-28,Veteran Extension,Bird Exception,0,3.0,60000000.0,20000000.0,0,0,0,0,1,False,2022-23
+Naz Reid,23,MIN,2023-06-27,Veteran Extension,Bird Exception,1,2.5,41959296.0,13986432.0,0,0,0,0,1,False,2022-23
+Tristan Thompson,32,LAL,2023-04-09,Veteran Contract,Minimum Salary Exception,0,1.0,16700.0,16700.0,0,0,0,1,1,True,2022-23
+Willie Cauley-Stein,29,HOU,2023-04-09,Veteran Contract,Minimum Salary Exception,0,1.0,14158.0,14158.0,0,0,0,0,1,True,2022-23
+Isaiah Roby,25,NYK,2023-04-09,Veteran Contract,Room-MLE,0,2.0,2466585.0,1233293.0,0,0,0,1,0,True,2022-23
+Shaquille Harrison,29,LAL,2023-04-09,Veteran Contract,Minimum Salary Exception,0,2.0,2425564.0,1212782.0,1,1,1,0,0,True,2022-23
+Vernon Carey Jr.,22,UTA,2023-04-08,Veteran Contract,Minimum Salary Exception,0,2.0,2097238.0,1048619.0,0,0,0,0,1,True,2022-23
+David Duke Jr.,23,BKN,2023-04-07,Veteran Contract,Minimum Salary Exception,0,1.0,28241.0,28241.0,1,1,0,0,0,True,2022-23
+Kobi Simmons,25,CHA,2023-04-07,Veteran Contract,Minimum Salary Exception,0,2.0,2099380.0,1049690.0,1,0,0,0,0,True,2022-23
+Luka Samanic,23,UTA,2023-04-07,Veteran Contract,MLE,0,2.0,2499380.0,1249690.0,0,0,0,1,0,True,2022-23
+DaQuan Jeffries,25,NYK,2023-03-26,Veteran Contract,Room-MLE,0,2.0,2366585.0,1183293.0,0,1,0,0,0,True,2022-23
+Eugene Omoruyi,26,DET,2023-03-23,Veteran Contract,MLE,0,1.5,2197341.0,1098671.0,0,0,1,0,0,True,2022-23
+D.J. Augustin,35,HOU,2023-03-23,Veteran Contract,Minimum Salary Exception,0,1.0,300605.0,300605.0,1,0,0,0,0,True,2022-23
+Nick Richards,25,CHA,2023-03-22,Veteran Extension,Bird Exception,0,3.0,15000000.0,5000000.0,0,0,0,0,1,True,2022-23
+Anthony Lamb,25,GSW,2023-03-17,Veteran Contract,Minimum Salary Exception,0,1.0,253254.0,253254.0,0,1,1,0,0,True,2022-23
+Bogdan Bogdanovic,30,ATL,2023-03-16,Veteran Extension,Bird Exception,1,3.5,68000000.0,17000000.0,0,1,0,0,0,True,2022-23
+Sam Merrill,26,CLE,2023-03-14,Veteran Contract,MLE,0,3.0,5012231.0,1670744.0,0,1,0,0,0,True,2022-23
+Meyers Leonard,31,MIL,2023-03-14,Veteran Contract,Minimum Salary Exception,0,1.0,409916.0,409916.0,0,0,0,1,1,True,2022-23
+Kris Dunn,28,UTA,2023-03-14,Veteran Contract,MLE,0,2.0,3322484.0,1661242.0,1,0,0,0,0,True,2022-23
+Goran Dragic,36,MIL,2023-03-04,Veteran Contract,Minimum Salary Exception,0,1.0,617911.0,617911.0,1,1,0,0,0,True,2022-23
+Carlik Jones,25,CHI,2023-03-03,Veteran Contract,MLE,0,3.0,4377957.0,1459319.0,1,1,0,0,0,True,2022-23
+Sandro Mamukelashvili,23,SAS,2023-03-03,Veteran Contract,Minimum Salary Exception,0,1.0,357717.0,357717.0,0,0,0,1,1,True,2022-23
+Will Barton,32,TOR,2023-02-28,Veteran Contract,Minimum Salary Exception,0,1.0,684712.0,684712.0,0,1,1,0,0,True,2022-23
+Michael Carter-Williams,31,ORL,2023-02-26,Veteran Contract,Minimum Salary Exception,0,1.5,3703973.0,1851987.0,1,1,0,0,0,True,2022-23
+Lindy Waters III,25,OKC,2023-02-26,Veteran Contract,MLE,0,1.5,3855792.0,1927896.0,0,1,0,0,0,True,2022-23
+PJ Dozier,26,SAC,2023-02-25,Veteran Contract,Minimum Salary Exception,0,2.0,2952754.0,1476377.0,1,1,0,0,0,True,2022-23
+Ish Wainright,28,PHX,2023-02-24,Veteran Contract,Taxpayer-MLE,0,1.5,2402747.0,1201374.0,0,0,1,1,0,True,2022-23
+Jordan Goodwin,24,WAS,2023-02-24,Veteran Contract,MLE,0,2.5,4920240.0,1640080.0,0,1,0,0,0,True,2022-23
+R.J. Hampton,22,DET,2023-02-23,Veteran Contract,Minimum Salary Exception,0,2.0,2482641.0,1241321.0,1,0,0,0,0,True,2022-23
+Admiral Schofield,25,ORL,2023-02-21,Veteran Contract,Minimum Salary Exception,0,1.5,2503746.0,1251873.0,0,0,1,0,0,True,2022-23
+Kevin Love,34,MIA,2023-02-20,Veteran Contract,Biannual Exception,0,1.0,3114138.0,3114138.0,0,0,0,1,1,True,2022-23
+Cody Zeller,30,MIA,2023-02-20,Veteran Contract,Minimum Salary Exception,0,1.0,743922.0,743922.0,0,0,0,0,1,True,2022-23
+Justin Holiday,33,DAL,2023-02-15,Veteran Contract,Minimum Salary Exception,0,1.0,819832.0,819832.0,0,1,1,0,0,True,2022-23
+Patrick Beverley,34,CHI,2023-02-14,Veteran Contract,Minimum Salary Exception,0,1.0,801614.0,801614.0,1,1,0,0,0,True,2022-23
+Dewayne Dedmon,33,PHI,2023-02-14,Veteran Contract,Minimum Salary Exception,0,1.0,835014.0,835014.0,0,0,0,0,1,True,2022-23
+Charles Bassey,22,SAS,2023-02-14,Veteran Contract,Cap Room,0,4.0,10200000.0,2550000.0,0,0,0,0,1,True,2022-23
+Terrence Ross,32,PHX,2023-02-14,Veteran Contract,Minimum Salary Exception,0,1.0,918516.0,918516.0,0,1,1,0,0,True,2022-23
+Reggie Jackson,32,DEN,2023-02-14,Veteran Contract,Minimum Salary Exception,0,1.0,918516.0,918516.0,1,0,0,0,0,True,2022-23
+James Johnson,35,IND,2023-02-13,Veteran Contract,Minimum Salary Exception,0,1.0,935216.0,935216.0,0,0,1,1,0,True,2022-23
+Goga Bitadze,23,ORL,2023-02-13,Veteran Contract,Minimum Salary Exception,0,1.5,2678766.0,1339383.0,0,0,0,0,1,True,2022-23
+Danny Green,35,CLE,2023-02-13,Veteran Contract,MLE,0,1.0,2000000.0,2000000.0,0,1,0,0,0,True,2022-23
+Boban Marjanovic,34,HOU,2023-02-12,Veteran Contract,Minimum Salary Exception,0,1.0,807005.0,807005.0,0,0,0,0,1,True,2022-23
+Joe Wieskamp,23,TOR,2023-02-11,Veteran Contract,Minimum Salary Exception,0,2.0,2473885.0,1236943.0,1,1,0,0,0,True,2022-23
+Eugene Omoruyi,25,OKC,2023-02-10,Veteran Contract,Minimum Salary Exception,0,1.5,2483298.0,1241649.0,0,0,1,0,0,True,2022-23
+Gorgui Dieng,33,SAS,2023-02-10,Veteran Contract,Minimum Salary Exception,0,1.0,895743.0,895743.0,0,0,0,1,1,True,2022-23
+Myles Turner,26,IND,2023-01-30,Veteran Extension,Bird Exception,1,2.0,43903500.0,21951750.0,0,0,0,0,1,True,2022-23
+Stanley Johnson,26,SAS,2022-12-13,Veteran Contract,Minimum Salary Exception,0,1.0,1670643.0,1670643.0,0,0,1,1,0,True,2022-23
+Al Horford,36,BOS,2022-12-02,Veteran Extension,Bird Exception,1,2.0,19500000.0,9750000.0,0,0,0,1,1,True,2022-23
+Kemba Walker,32,DAL,2022-11-29,Veteran Contract,Minimum Salary Exception,0,1.0,2204439.0,2204439.0,1,0,0,0,0,True,2022-23
+Alize Johnson,26,SAS,2022-11-29,Veteran Contract,Minimum Salary Exception,0,1.0,1493098.0,1493098.0,0,0,1,1,0,True,2022-23
+Jordan Hall,20,SAS,2022-11-02,Veteran Contract,Minimum Salary Exception,0,1.0,935891.0,935891.0,1,0,1,0,0,True,2022-23
+Facundo Campazzo,31,DAL,2022-10-18,Veteran Contract,Minimum Salary Exception,0,1.0,1836090.0,1836090.0,1,0,0,0,0,True,2022-23
+Nassir Little,22,POR,2022-10-17,Rookie Scale Extension,Bird Exception,1,4.0,28000000.0,7000000.0,0,0,0,1,0,False,2021-22
+Kevin Porter Jr.,22,HOU,2022-10-17,Rookie Scale Extension,Bird Exception,1,4.0,82472000.0,20618000.0,1,1,0,0,0,False,2021-22
+De'Andre Hunter,24,ATL,2022-10-17,Rookie Scale Extension,Bird Exception,1,4.0,95000000.0,23750000.0,0,0,1,0,0,False,2021-22
+Brandon Clarke,26,MEM,2022-10-16,Rookie Scale Extension,Bird Exception,1,4.0,52000000.0,13000000.0,0,0,0,1,0,False,2021-22
+Isaiah Joe,23,OKC,2022-10-16,Veteran Contract,MLE,0,2.5,5998321.0,1999440.0,0,1,0,0,0,False,2021-22
+Andrew Wiggins,27,GSW,2022-10-15,Veteran Extension,Bird Exception,0,3.5,109000002.0,27250001.0,0,1,1,0,0,False,2021-22
+Jordan Poole,23,GSW,2022-10-15,Rookie Scale Extension,Bird Exception,1,4.0,140000000.0,35000000.0,0,1,0,0,0,False,2021-22
+Noah Kirkwood,22,BKN,2022-10-06,Veteran Contract,Minimum Salary Exception,0,1.0,1017781.0,1017781.0,0,1,0,0,0,False,2021-22
+Larry Nance Jr.,29,NOP,2022-10-03,Veteran Extension,Bird Exception,1,2.0,21580000.0,10790000.0,0,0,0,1,1,False,2021-22
+Blake Griffin,33,BOS,2022-10-03,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,0,False,2021-22
+Bruno Fernando,24,HOU,2022-10-02,Veteran Contract,MLE,0,3.5,10869564.0,2717391.0,0,0,0,0,1,False,2021-22
+Tyler Herro,22,MIA,2022-10-02,Rookie Scale Extension,Bird Exception,1,4.0,130000000.0,32500000.0,0,1,0,0,0,False,2021-22
+Bojan Bogdanovic,33,DET,2022-10-01,Veteran Extension,Bird Exception,1,2.0,39032850.0,19516425.0,0,0,1,0,0,False,2021-22
+Steven Adams,29,MEM,2022-10-01,Veteran Extension,Bird Exception,1,2.0,25200000.0,12600000.0,0,0,0,0,1,False,2021-22
+Anthony Tolliver,37,MIA,2022-09-29,Veteran Contract,Minimum Salary Exception,0,1.0,825497.0,825497.0,0,0,1,1,0,False,2021-22
+Dean Wade,25,CLE,2022-09-27,Veteran Extension,Bird Exception,1,3.0,18500000.0,6166667.0,0,0,0,1,0,False,2021-22
+Andre Iguodala,38,GSW,2022-09-26,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,1,1,0,0,False,2021-22
+Jordan Nwora,24,MIL,2022-09-26,Veteran Contract,Early-Bird Exception,0,2.0,6200000.0,3100000.0,0,0,1,0,0,False,2021-22
+CJ McCollum,31,NOP,2022-09-26,Veteran Extension,Bird Exception,1,2.0,63999999.0,32000000.0,0,1,0,0,0,False,2021-22
+Kent Bazemore,33,SAC,2022-09-20,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,1,1,0,0,False,2021-22
+Sviatoslav Mykhailiuk,25,NYK,2022-09-18,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,1,1,0,0,False,2021-22
+Dennis Schroder,29,LAL,2022-09-16,Veteran Contract,Minimum Salary Exception,0,1.0,2641682.0,2641682.0,1,0,0,0,0,False,2021-22
+KZ Okpala,23,SAC,2022-09-14,Veteran Contract,Minimum Salary Exception,0,2.0,3968718.0,1984359.0,0,0,1,0,0,False,2021-22
+Montrezl Harrell,28,PHI,2022-09-13,Veteran Contract,Minimum Salary Exception,0,1.5,5223516.0,2611758.0,0,0,0,1,1,False,2021-22
+Maxi Kleber,30,DAL,2022-09-08,Veteran Extension,Bird Exception,1,3.0,33000000.0,11000000.0,0,0,0,1,1,False,2021-22
+Markieff Morris,33,BKN,2022-09-07,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,0,False,2021-22
+Collin Sexton,23,CLE,2022-09-03,Veteran Contract,Bird Exception,0,4.0,72950000.0,18237500.0,1,1,0,0,0,False,2021-22
+RJ Barrett,22,NYK,2022-09-01,Rookie Scale Extension,Bird Exception,1,4.0,120000000.0,30000000.0,0,1,0,0,0,False,2021-22
+Josh Jackson,25,TOR,2022-08-30,Veteran Contract,Minimum Salary Exception,0,1.0,2133278.0,2133278.0,0,1,1,0,0,False,2021-22
+Joe Wieskamp,23,SAS,2022-08-24,Veteran Contract,Cap Room,0,2.0,4375000.0,2187500.0,1,1,0,0,0,False,2021-22
+Udonis Haslem,42,MIA,2022-08-23,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,1,False,2021-22
+Sam Merrill,26,SAC,2022-08-12,Veteran Contract,Minimum Salary Exception,0,2.0,3833328.0,1916664.0,0,1,0,0,0,False,2021-22
+Gorgui Dieng,32,SAS,2022-08-09,Veteran Contract,Minimum Salary Exception,0,1.0,2641682.0,2641682.0,0,0,0,1,1,False,2021-22
+Mike Muscala,31,OKC,2022-08-03,Veteran Contract,Bird Exception,0,1.5,7000000.0,3500000.0,0,0,0,1,1,False,2021-22
+Goran Dragic,36,CHI,2022-08-02,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,1,1,0,0,0,False,2021-22
+Rodney McGruder,31,DET,2022-08-01,Veteran Contract,Minimum Salary Exception,0,1.0,2298385.0,2298385.0,0,1,0,0,0,False,2021-22
+JaMychal Green,32,GSW,2022-08-01,Veteran Contract,Minimum Salary Exception,0,1.0,2628597.0,2628597.0,0,0,0,1,0,False,2021-22
+Kevin Knox,22,DET,2022-08-01,Veteran Contract,Cap Room,0,1.5,6000000.0,3000000.0,0,0,1,1,0,False,2021-22
+Matthew Dellavedova,31,SAC,2022-07-29,Veteran Contract,Minimum Salary Exception,0,1.0,2628597.0,2628597.0,1,1,0,0,0,False,2021-22
+Juancho Hernangomez,26,TOR,2022-07-27,Veteran Contract,Minimum Salary Exception,0,1.0,2298385.0,2298385.0,0,0,0,1,0,False,2021-22
+James Harden,32,PHI,2022-07-27,Veteran Contract,Bird Exception,0,1.5,68640000.0,34320000.0,1,1,0,0,0,False,2021-22
+Nathan Knight,24,MIN,2022-07-22,Veteran Contract,Minimum Salary Exception,0,1.5,3833328.0,1916664.0,0,0,0,1,0,False,2021-22
+Kenrich Williams,27,OKC,2022-07-20,Veteran Extension,Bird Exception,1,3.5,27170000.0,6792500.0,0,0,1,1,0,False,2021-22
+Austin Rivers,29,MIN,2022-07-19,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,1,1,0,0,0,False,2021-22
+Taj Gibson,37,WAS,2022-07-19,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,1,False,2021-22
+Serge Ibaka,32,MIL,2022-07-19,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,1,1,False,2021-22
+Keldon Johnson,22,SAS,2022-07-18,Designated Rookie Scale Extension,Bird Exception,1,4.0,74000000.0,18500000.0,0,0,1,0,0,False,2021-22
+Kentavious Caldwell-Pope,29,DEN,2022-07-18,Veteran Extension,Bird Exception,1,1.5,30145123.0,15072562.0,0,1,0,0,0,False,2021-22
+Pat Connaughton,29,MIL,2022-07-18,Veteran Extension,Bird Exception,1,2.5,28271607.0,9423869.0,0,1,0,0,0,False,2021-22
+Deandre Ayton,23,PHX,2022-07-15,Post-Rookie Free-Agent Contract,Bird Exception,0,4.0,132929128.0,33232282.0,0,0,0,0,1,False,2021-22
+Justin Champagnie,21,TOR,2022-07-13,Veteran Contract,Minimum Salary Exception,0,2.0,3565862.0,1782931.0,0,0,1,1,0,False,2021-22
+Danilo Gallinari,33,BOS,2022-07-12,Veteran Contract,Taxpayer-MLE,0,1.5,13281950.0,6640975.0,0,0,1,1,0,False,2021-22
+Mitchell Robinson,24,NYK,2022-07-12,Veteran Contract,Bird Exception,0,4.0,60000000.0,15000000.0,0,0,0,0,1,False,2021-22
+Jalen Brunson,25,NYK,2022-07-12,Veteran Contract,Cap Room,0,3.5,104000000.0,26000000.0,1,0,0,0,0,False,2021-22
+Isaiah Hartenstein,24,NYK,2022-07-12,Veteran Contract,Cap Room,0,2.0,18100000.0,9050000.0,0,0,0,1,1,False,2021-22
+Frank Kaminsky,29,ATL,2022-07-11,Veteran Contract,Minimum Salary Exception,0,1.0,2463490.0,2463490.0,0,0,0,1,1,False,2021-22
+DeAndre Jordan,33,DEN,2022-07-11,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,0,1,False,2021-22
+Bryn Forbes,28,MIN,2022-07-10,Veteran Contract,Minimum Salary Exception,0,1.0,2298385.0,2298385.0,0,1,0,0,0,False,2021-22
+Patty Mills,33,BKN,2022-07-10,Veteran Contract,Non-Bird Exception,0,2.0,14489402.0,7244701.0,1,0,0,0,0,False,2021-22
+Jericho Sims,23,NYK,2022-07-09,Veteran Contract,Cap Room,0,2.5,5660082.0,1886694.0,0,0,0,1,0,False,2021-22
+Sam Hauser,24,BOS,2022-07-09,Veteran Contract,Non-Bird Exception,0,2.5,5658206.0,1886069.0,0,0,1,0,0,False,2021-22
+Luke Kornet,26,BOS,2022-07-09,Veteran Contract,Minimum Salary Exception,0,2.0,4546582.0,2273291.0,0,0,0,1,1,False,2021-22
+Kevon Looney,26,GSW,2022-07-09,Veteran Contract,Bird Exception,0,3.0,25500000.0,8500000.0,0,0,0,1,1,False,2021-22
+JaVale McGee,34,DAL,2022-07-09,Veteran Contract,Taxpayer-MLE,0,2.5,17202840.0,5734280.0,0,0,0,0,1,False,2021-22
+Edmond Sumner,26,BKN,2022-07-08,Veteran Contract,Minimum Salary Exception,0,2.0,4208118.0,2104059.0,1,0,0,0,0,False,2021-22
+Darius Garland,22,CLE,2022-07-08,Designated Rookie Scale Extension,Bird Exception,1,5.0,197230450.0,39446090.0,1,0,0,0,0,False,2021-22
+Donte DiVincenzo,25,GSW,2022-07-08,Veteran Contract,Taxpayer-MLE,0,1.5,9225000.0,4612500.0,0,1,0,0,0,False,2021-22
+John Wall,31,LAC,2022-07-08,Veteran Contract,Taxpayer-MLE,0,1.5,13281950.0,6640975.0,1,0,0,0,0,False,2021-22
+D.J. Wilson,26,TOR,2022-07-07,Veteran Contract,Minimum Salary Exception,0,2.0,4546582.0,2273291.0,0,0,0,1,0,False,2021-22
+Vlatko Cancar,25,DEN,2022-07-07,Veteran Contract,Bird Exception,0,2.5,6815324.0,2271775.0,0,0,1,0,0,False,2021-22
+T.J. Warren,28,BKN,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,2628597.0,2628597.0,0,0,1,0,0,False,2021-22
+Raul Neto,30,CLE,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,2463490.0,2463490.0,1,0,0,0,0,False,2021-22
+Robin Lopez,34,CLE,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,0,1,False,2021-22
+Drew Eubanks,25,POR,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,0,0,1,0,False,2021-22
+Zach LaVine,27,CHI,2022-07-07,Veteran Contract,Bird Exception,0,4.5,215159700.0,43031940.0,0,1,0,0,0,False,2021-22
+Theo Pinson,26,DAL,2022-07-07,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,1,0,0,0,False,2021-22
+John Konchar,26,MEM,2022-07-06,Veteran Extension,Bird Exception,1,3.0,18495000.0,6165000.0,0,1,0,0,0,False,2021-22
+Kessler Edwards,21,BKN,2022-07-06,Veteran Contract,Minimum Salary Exception,0,1.5,3565862.0,1782931.0,0,0,1,0,0,False,2021-22
+Caleb Martin,26,MIA,2022-07-06,Veteran Contract,MLE,0,2.5,20408850.0,6802950.0,0,0,1,0,0,False,2021-22
+Thomas Bryant,24,LAL,2022-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,2133278.0,2133278.0,0,0,0,0,1,False,2021-22
+Cody Martin,26,CHA,2022-07-06,Veteran Contract,Bird Exception,0,4.0,31360000.0,7840000.0,0,0,1,0,0,False,2021-22
+Jalen Smith,22,IND,2022-07-06,Veteran Contract,Early-Bird Exception,0,2.5,15131319.0,5043773.0,0,0,0,1,0,False,2021-22
+Derrick Jones Jr.,25,CHI,2022-07-06,Veteran Contract,Non-Bird Exception,0,1.5,6560000.0,3280000.0,0,0,1,1,0,False,2021-22
+Bol Bol,22,ORL,2022-07-06,Veteran Contract,Bird Exception,0,2.0,4400000.0,2200000.0,0,0,0,0,1,False,2021-22
+Jusuf Nurkic,27,POR,2022-07-06,Veteran Contract,Bird Exception,0,4.0,70000000.0,17500000.0,0,0,0,0,1,False,2021-22
+Otto Porter Jr.,29,TOR,2022-07-06,Veteran Contract,MLE,0,1.5,12300000.0,6150000.0,0,0,1,0,0,False,2021-22
+Aaron Holiday,25,ATL,2022-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,1,0,0,0,0,False,2021-22
+Bruce Brown Jr.,25,DEN,2022-07-06,Veteran Contract,Taxpayer-MLE,0,1.5,13281950.0,6640975.0,0,1,0,0,0,False,2021-22
+Ricky Rubio,31,CLE,2022-07-06,Veteran Contract,MLE,0,3.0,18439026.0,6146342.0,1,0,0,0,0,False,2021-22
+Ja Morant,22,MEM,2022-07-06,Designated Rookie Scale Extension,Bird Exception,1,5.0,197230450.0,39446090.0,1,0,0,0,0,False,2021-22
+Zion Williamson,22,NOP,2022-07-06,Designated Rookie Scale Extension,Bird Exception,1,5.0,197230450.0,39446090.0,0,0,0,1,0,False,2021-22
+Gary Payton II,29,POR,2022-07-06,Veteran Contract,MLE,0,2.5,26145000.0,8715000.0,1,0,0,0,0,False,2021-22
+Andre Drummond,28,CHI,2022-07-06,Veteran Contract,MLE,0,1.5,6560000.0,3280000.0,0,0,0,0,1,False,2021-22
+Luguentz Dort,23,OKC,2022-07-06,Veteran Contract,Bird Exception,0,4.5,87500000.0,17500000.0,0,0,1,1,0,False,2021-22
+Delon Wright,30,WAS,2022-07-06,Veteran Contract,MLE,0,2.0,16000000.0,8000000.0,1,1,0,0,0,False,2021-22
+Kyle Anderson,28,MIN,2022-07-06,Veteran Contract,MLE,0,2.0,18000000.0,9000000.0,0,0,1,1,0,False,2021-22
+Amir Coffey,25,LAC,2022-07-06,Veteran Contract,Bird Exception,0,3.0,11000000.0,3666667.0,0,1,0,0,0,False,2021-22
+Jevon Carter,26,MIL,2022-07-06,Veteran Contract,Non-Bird Exception,0,1.5,4339943.0,2169972.0,1,0,0,0,0,False,2021-22
+Mo Bamba,24,ORL,2022-07-06,Veteran Contract,Bird Exception,0,2.0,20600000.0,10300000.0,0,0,0,0,1,False,2021-22
+Wesley Matthews,35,MIL,2022-07-06,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,1,1,0,0,False,2021-22
+Nicolas Claxton,23,BKN,2022-07-06,Veteran Contract,Bird Exception,0,2.0,19837500.0,9918750.0,0,0,0,1,1,False,2021-22
+Lonnie Walker IV,23,LAL,2022-07-06,Veteran Contract,Taxpayer-MLE,0,1.0,6479000.0,6479000.0,0,1,0,0,0,False,2021-22
+Jae’Sean Tate,26,HOU,2022-07-06,Veteran Contract,Early-Bird Exception,0,2.5,22130434.0,7376811.0,0,0,1,0,0,False,2021-22
+Marvin Bagley III,23,DET,2022-07-06,Veteran Contract,Bird Exception,0,3.0,37500000.0,12500000.0,0,0,0,1,0,False,2021-22
+Joe Ingles,34,MIL,2022-07-06,Veteran Contract,Taxpayer-MLE,0,1.0,6479000.0,6479000.0,0,0,1,1,0,False,2021-22
+Dewayne Dedmon,32,MIA,2022-07-06,Veteran Contract,Early-Bird Exception,0,2.0,9024000.0,4512000.0,0,0,0,0,1,False,2021-22
+Chris Boucher,28,TOR,2022-07-06,Veteran Contract,Bird Exception,0,3.0,35250000.0,11750000.0,0,0,0,1,0,False,2021-22
+Tyus Jones,26,MEM,2022-07-06,Veteran Contract,Bird Exception,0,2.0,29000000.0,14500000.0,1,0,0,0,0,False,2021-22
+Danuel House Jr.,29,PHI,2022-07-06,Veteran Contract,Biannual Exception,0,1.5,8415250.0,4207625.0,0,1,1,0,0,False,2021-22
+Bobby Portis,27,MIL,2022-07-06,Veteran Contract,Early-Bird Exception,0,3.5,48578208.0,12144552.0,0,0,0,1,1,False,2021-22
+Anfernee Simons,23,POR,2022-07-06,Veteran Contract,Bird Exception,0,4.0,100000000.0,25000000.0,0,1,0,0,0,False,2021-22
+Malik Monk,24,SAC,2022-07-06,Veteran Contract,MLE,0,2.0,19418049.0,9709025.0,0,1,0,0,0,False,2021-22
+P.J. Tucker,37,PHI,2022-07-06,Veteran Contract,MLE,0,2.5,33043500.0,11014500.0,0,1,1,1,0,False,2021-22
+Nicolas Batum,33,LAC,2022-07-06,Veteran Contract,Early-Bird Exception,0,2.0,22554168.0,11277084.0,0,1,1,0,0,False,2021-22
+Victor Oladipo,30,MIA,2022-07-06,Veteran Contract,Bird Exception,0,1.5,18200000.0,9100000.0,1,1,0,0,0,False,2021-22
+Bismack Biyombo,29,PHX,2022-07-03,Veteran Contract,Minimum Salary Exception,0,1.0,2905851.0,2905851.0,0,0,0,0,1,False,2021-22
+Josh Okogie,23,PHX,2022-07-02,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,1,0,0,0,False,2021-22
+Damion Lee,29,PHX,2022-07-01,Veteran Contract,Minimum Salary Exception,0,1.0,2133278.0,2133278.0,0,1,0,0,0,False,2021-22
+Davon Reed,27,DEN,2022-07-01,Veteran Contract,Minimum Salary Exception,0,2.0,3968718.0,1984359.0,0,1,0,0,0,False,2021-22
+Anthony Gill,29,WAS,2022-07-01,Veteran Contract,Minimum Salary Exception,0,2.0,3833328.0,1916664.0,0,0,0,1,0,False,2021-22
+Damian Jones,27,LAL,2022-07-01,Veteran Contract,Minimum Salary Exception,0,1.5,4885050.0,2442525.0,0,0,0,0,1,False,2021-22
+Juan Toscano-Anderson,29,LAL,2022-07-01,Veteran Contract,Minimum Salary Exception,0,1.0,1902133.0,1902133.0,0,0,1,0,0,False,2021-22
+Troy Brown Jr.,22,LAL,2022-07-01,Veteran Contract,Minimum Salary Exception,0,1.0,1968175.0,1968175.0,0,1,1,0,0,False,2021-22
+Trevelin Queen,25,PHI,2022-07-01,Veteran Contract,Minimum Salary Exception,0,2.0,3565862.0,1782931.0,0,1,0,0,0,False,2021-22
+Gary Harris,27,ORL,2022-06-30,Veteran Extension,Bird Exception,1,2.0,26000000.0,13000000.0,0,1,0,0,0,False,2021-22
+Taurean Prince,28,MIN,2022-06-30,Veteran Extension,Bird Exception,1,2.0,16685000.0,8342500.0,0,0,1,0,0,False,2021-22
+Thaddeus Young,34,TOR,2022-06-30,Veteran Extension,Bird Exception,0,2.0,17300000.0,8650000.0,0,0,0,1,0,False,2021-22
+Ivica Zubac,25,LAC,2022-06-28,Veteran Extension,Bird Exception,1,3.0,32800000.0,10933333.0,0,0,0,0,1,False,2021-22
+Robert Covington,31,LAC,2022-05-07,Veteran Extension,Bird Exception,1,2.0,24000000.0,12000000.0,0,0,1,1,0,False,2021-22
+Trent Forrest,23,UTA,2022-04-10,Veteran Contract,Minimum Salary Exception,0,1.0,8558.0,8558.0,1,1,0,0,0,False,2021-22
+Devin Cannady,25,ORL,2022-04-10,Veteran Contract,MLE,0,2.5,3754775.0,1251592.0,1,0,0,0,0,False,2021-22
+Juwan Morgan,24,BOS,2022-04-09,Veteran Contract,Minimum Salary Exception,0,1.5,1834863.0,917432.0,0,0,0,1,0,False,2021-22
+Moses Brown,22,CLE,2022-04-09,Veteran Contract,Minimum Salary Exception,0,1.0,19186.0,19186.0,0,0,0,0,1,False,2021-22
+Rayjon Tucker,24,MIL,2022-04-08,Veteran Contract,MLE,0,3.0,3812638.0,1270879.0,0,1,0,0,0,False,2021-22
+Wenyen Gabriel,25,LAL,2022-04-08,Veteran Contract,Minimum Salary Exception,0,1.5,1908534.0,954267.0,0,0,0,1,1,False,2021-22
+Greg Monroe,31,MIN,2022-04-07,Veteran Contract,Minimum Salary Exception,0,1.0,55208.0,55208.0,0,0,0,1,1,False,2021-22
+Luca Vildoza,26,MIL,2022-04-06,Veteran Contract,Minimum Salary Exception,0,2.0,1795427.0,897714.0,1,1,0,0,0,False,2021-22
+Carsen Edwards,24,DET,2022-04-03,Veteran Contract,Minimum Salary Exception,0,1.5,1892421.0,946211.0,0,1,0,0,0,False,2021-22
+Amir Coffey,24,LAC,2022-03-26,Veteran Contract,Minimum Salary Exception,0,1.0,153488.0,153488.0,0,1,0,0,0,False,2021-22
+Armoni Brooks,23,TOR,2022-03-26,Veteran Contract,MLE,0,2.0,2002638.0,1001319.0,1,1,0,0,0,False,2021-22
+Isaiah Thomas,33,CHA,2022-03-22,Veteran Contract,Minimum Salary Exception,0,1.0,303643.0,303643.0,1,1,0,0,0,False,2021-22
+Malik Fitts,24,BOS,2022-03-15,Veteran Contract,Minimum Salary Exception,0,2.0,1983700.0,991850.0,0,0,1,1,0,False,2021-22
+Haywood Highsmith,25,MIA,2022-03-08,Veteran Contract,MLE,0,3.0,3945742.0,1315247.0,0,0,1,0,0,True,2021-22
+Devontae Cacok,25,SAS,2022-03-04,Veteran Contract,Minimum Salary Exception,0,1.0,364533.0,364533.0,0,0,0,1,1,True,2021-22
+Nik Stauskas,28,BOS,2022-03-04,Veteran Contract,Minimum Salary Exception,0,2.0,2617456.0,1308728.0,0,1,0,0,0,True,2021-22
+DeAndre Jordan,33,PHI,2022-03-03,Veteran Contract,Minimum Salary Exception,0,1.0,592103.0,592103.0,0,0,0,0,1,True,2021-22
+D.J. Augustin,34,LAL,2022-03-01,Veteran Contract,Minimum Salary Exception,0,1.0,622467.0,622467.0,1,0,0,0,0,True,2021-22
+Tomas Satoransky,30,WAS,2022-02-28,Veteran Contract,Minimum Salary Exception,0,1.0,468119.0,468119.0,1,1,0,0,0,True,2021-22
+DeMarcus Cousins,31,DEN,2022-02-25,Veteran Contract,Minimum Salary Exception,0,1.0,683196.0,683196.0,0,0,0,0,1,True,2021-22
+Jevon Carter,26,MIL,2022-02-24,Veteran Contract,Minimum Salary Exception,0,1.0,457149.0,457149.0,1,0,0,0,0,True,2021-22
+Goran Dragic,35,BKN,2022-02-22,Veteran Contract,Minimum Salary Exception,0,1.0,728742.0,728742.0,1,1,0,0,0,True,2021-22
+Tristan Thompson,30,CHI,2022-02-19,Veteran Contract,Biannual Exception,0,1.0,1000000.0,1000000.0,0,0,0,1,1,True,2021-22
+DeAndre' Bembry,27,MIL,2022-02-16,Veteran Contract,Minimum Salary Exception,0,1.0,601867.0,601867.0,0,1,1,0,0,True,2021-22
+Caleb Martin,26,MIA,2022-02-15,Veteran Contract,Minimum Salary Exception,0,1.0,527615.0,527615.0,0,0,1,0,0,True,2021-22
+Patrick Beverley,33,MIN,2022-02-15,Veteran Extension,Bird Exception,1,1.0,13000000.0,13000000.0,1,1,0,0,0,True,2021-22
+Ryan Arcidiacono,27,NYK,2022-02-13,Veteran Contract,Minimum Salary Exception,0,1.0,586136.0,586136.0,1,0,0,0,0,True,2021-22
+Luke Kornet,26,BOS,2022-02-11,Veteran Contract,Minimum Salary Exception,0,1.0,606702.0,606702.0,0,0,0,1,1,True,2021-22
+Danuel House Jr.,28,UTA,2022-02-11,Veteran Contract,Minimum Salary Exception,0,1.0,657596.0,657596.0,0,1,1,0,0,True,2021-22
+Lance Stephenson,31,IND,2022-02-03,Veteran Contract,Minimum Salary Exception,0,1.0,924730.0,924730.0,0,1,1,0,0,True,2021-22
+Stanley Johnson,25,LAL,2022-01-27,Veteran Contract,Minimum Salary Exception,0,1.5,3240137.0,1620069.0,0,0,1,1,0,True,2021-22
+Marquese Chriss,24,DAL,2022-01-15,Veteran Contract,Minimum Salary Exception,0,2.0,3152449.0,1576225.0,0,0,0,1,0,True,2021-22
+Bismack Biyombo,29,PHX,2022-01-11,Veteran Contract,Minimum Salary Exception,0,1.0,1366392.0,1366392.0,0,0,0,0,1,True,2021-22
+Killian Tillie,23,MEM,2022-01-01,Veteran Contract,Room-MLE,0,2.0,3803250.0,1901625.0,0,0,0,0,1,True,2021-22
+Alfonzo McKinnie,29,CHI,2021-12-26,Veteran Contract,Minimum Salary Exception,0,2.0,3126325.0,1563163.0,0,0,1,0,0,True,2021-22
+Garrison Mathews,25,HOU,2021-12-18,Veteran Contract,MLE,0,3.5,8230253.0,2057563.0,0,1,0,0,0,True,2021-22
+Wesley Matthews,35,MIL,2021-12-03,Veteran Contract,Minimum Salary Exception,0,1.0,1958495.0,1958495.0,0,1,1,0,0,True,2021-22
+Gary Clark,27,NOP,2021-12-03,Veteran Contract,Minimum Salary Exception,0,1.0,1282006.0,1282006.0,0,0,0,1,0,True,2021-22
+DeMarcus Cousins,31,MIL,2021-11-30,Veteran Contract,Minimum Salary Exception,0,1.0,2004041.0,2004041.0,0,0,0,0,1,True,2021-22
+Jonas Valanciunas,29,NOP,2021-10-20,Veteran Extension,Bird Exception,1,2.0,30135000.0,15067500.0,0,0,0,0,1,True,2021-22
+Jabari Parker,26,BOS,2021-10-19,Veteran Contract,Minimum Salary Exception,0,1.0,2239544.0,2239544.0,0,0,0,1,0,True,2021-22
+Gary Payton II,28,GSW,2021-10-19,Veteran Contract,Minimum Salary Exception,0,1.0,1939350.0,1939350.0,1,0,0,0,0,True,2021-22
+Dorian Finney-Smith,28,DAL,2021-10-18,Veteran Extension,Bird Exception,1,3.5,55560960.0,13890240.0,0,0,1,1,0,False,2020-21
+Landry Shamet,24,PHX,2021-10-18,Rookie Scale Extension,Bird Exception,1,3.5,42500000.0,10625000.0,0,1,0,0,0,False,2020-21
+Grayson Allen,26,MIL,2021-10-18,Rookie Scale Extension,Bird Exception,1,2.0,19550000.0,9775000.0,0,1,0,0,0,False,2020-21
+Jaren Jackson Jr.,22,MEM,2021-10-18,Rookie Scale Extension,Bird Exception,1,4.0,104720000.0,26180000.0,0,0,0,1,1,False,2020-21
+Kevin Huerter,23,ATL,2021-10-18,Rookie Scale Extension,Bird Exception,1,4.0,65000000.0,16250000.0,0,1,0,0,0,False,2020-21
+Malcolm Brogdon,28,IND,2021-10-18,Veteran Extension,Bird Exception,1,2.0,45000000.0,22500000.0,1,1,0,0,0,False,2020-21
+Mikal Bridges,25,PHX,2021-10-18,Designated Rookie Scale Extension,Bird Exception,1,4.0,90000000.0,22500000.0,0,1,1,0,0,False,2020-21
+Mfiondu Kabengele,24,HOU,2021-10-17,Veteran Contract,Minimum Salary Exception,0,1.0,1669178.0,1669178.0,0,0,0,0,1,False,2020-21
+Wendell Carter Jr.,22,ORL,2021-10-16,Rookie Scale Extension,Bird Exception,1,4.0,50000000.0,12500000.0,0,0,0,0,1,False,2020-21
+Armoni Brooks,23,HOU,2021-10-14,Veteran Contract,MLE,0,3.5,7201486.0,1800372.0,1,1,0,0,0,False,2020-21
+Ed Davis,32,CLE,2021-10-13,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,1,False,2020-21
+Daniel Gafford,23,WAS,2021-10-12,Veteran Extension,Bird Exception,1,3.0,40182480.0,13394160.0,0,0,0,0,1,False,2020-21
+Michael Porter Jr.,23,DEN,2021-09-29,Designated Rookie Scale Extension,Bird Exception,1,5.0,179299750.0,35859950.0,0,0,1,0,0,False,2020-21
+Aaron Gordon,26,DEN,2021-09-27,Veteran Extension,Bird Exception,1,3.5,91440001.0,22860000.0,0,0,1,1,0,False,2020-21
+Denzel Valentine,27,CLE,2021-09-22,Veteran Contract,Minimum Salary Exception,0,2.0,4133270.0,2066635.0,0,1,1,0,0,False,2020-21
+Dante Exum,26,HOU,2021-09-17,Veteran Contract,Bird Exception,0,3.0,16215000.0,5405000.0,1,1,0,0,0,False,2020-21
+Frank Ntilikina,23,DAL,2021-09-16,Veteran Contract,Minimum Salary Exception,0,2.0,3825574.0,1912787.0,1,0,0,0,0,False,2020-21
+Jarred Vanderbilt,22,MIN,2021-09-15,Veteran Contract,Bird Exception,0,3.0,13527000.0,4509000.0,0,0,1,1,0,False,2020-21
+Jordan McLaughlin,25,MIN,2021-09-15,Veteran Contract,Early-Bird Exception,0,3.0,6780000.0,2260000.0,1,0,0,0,0,False,2020-21
+Paul Millsap,36,BKN,2021-09-10,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,0,False,2020-21
+E'Twaun Moore,32,ORL,2021-09-09,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,1,1,0,0,0,False,2020-21
+DeAndre Jordan,33,LAL,2021-09-09,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,0,1,False,2020-21
+Timothe Luwawu-Cabarrot,26,ATL,2021-09-09,Veteran Contract,Minimum Salary Exception,0,1.0,1939350.0,1939350.0,0,1,1,0,0,False,2020-21
+Keita Bates-Diop,25,SAS,2021-09-07,Veteran Contract,Minimum Salary Exception,0,2.0,3607937.0,1803969.0,0,0,1,0,0,False,2020-21
+Alize Johnson,25,CHI,2021-09-07,Veteran Contract,Minimum Salary Exception,0,2.0,3607937.0,1803969.0,0,0,1,1,0,False,2020-21
+LaMarcus Aldridge,36,BKN,2021-09-03,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,1,False,2020-21
+Clint Capela,27,ATL,2021-09-01,Veteran Extension,Bird Exception,1,2.0,46881280.0,23440640.0,0,0,0,0,1,False,2020-21
+Rajon Rondo,35,LAL,2021-08-31,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,1,0,0,0,0,False,2020-21
+Sviatoslav Mykhailiuk,24,TOR,2021-08-31,Veteran Contract,Minimum Salary Exception,0,1.5,3607937.0,1803969.0,0,1,1,0,0,False,2020-21
+Austin Rivers,29,DEN,2021-08-31,Veteran Contract,Minimum Salary Exception,0,1.0,2401537.0,2401537.0,1,1,0,0,0,False,2020-21
+Lauri Markkanen,24,CHI,2021-08-28,Veteran Contract,Bird Exception,0,4.0,67470906.0,16867727.0,0,0,1,1,0,False,2020-21
+Julius Randle,26,NYK,2021-08-27,Veteran Extension,Bird Exception,1,3.5,117089280.0,29272320.0,0,0,0,1,1,False,2020-21
+Bryn Forbes,28,SAS,2021-08-25,Veteran Contract,Room-MLE,0,1.0,4500000.0,4500000.0,0,1,0,0,0,False,2020-21
+Terry Rozier,27,CHA,2021-08-24,Veteran Extension,Bird Exception,1,4.0,96258694.0,24064674.0,1,1,0,0,0,False,2020-21
+Robert Williams III,23,BOS,2021-08-24,Rookie Scale Extension,Bird Exception,1,4.0,54000000.0,13500000.0,0,0,0,0,1,False,2020-21
+Josh Richardson,27,BOS,2021-08-23,Veteran Extension,Bird Exception,1,1.0,12196094.0,12196094.0,0,1,1,0,0,False,2020-21
+Moritz Wagner,24,ORL,2021-08-23,Veteran Contract,Minimum Salary Exception,0,2.0,3607937.0,1803969.0,0,0,0,0,1,False,2020-21
+Marcus Smart,27,BOS,2021-08-21,Veteran Extension,Bird Exception,1,4.0,77087996.0,19271999.0,1,1,0,0,0,False,2020-21
+Torrey Craig,30,IND,2021-08-20,Veteran Contract,MLE,0,2.0,10000000.0,5000000.0,0,0,1,0,0,False,2020-21
+Hamidou Diallo,23,DET,2021-08-19,Veteran Contract,Bird Exception,0,1.5,10400000.0,5200000.0,0,1,1,0,0,False,2020-21
+Josh Hart,26,NOP,2021-08-19,Veteran Contract,Bird Exception,0,2.5,37920000.0,12640000.0,0,1,1,0,0,False,2020-21
+JaMychal Green,31,DEN,2021-08-19,Veteran Contract,Non-Bird Exception,0,1.5,16800000.0,8400000.0,0,0,0,1,0,False,2020-21
+Taj Gibson,36,NYK,2021-08-18,Veteran Contract,Room-MLE,0,2.0,10065500.0,5032750.0,0,0,0,1,1,False,2020-21
+Evan Fournier,28,BOS,2021-08-17,Veteran Contract,Bird Exception,0,3.5,79000000.0,19750000.0,0,1,1,0,0,False,2020-21
+Derrick Rose,32,NYK,2021-08-17,Veteran Contract,Early-Bird Exception,0,2.5,43562189.0,14520730.0,1,0,0,0,0,False,2020-21
+Willy Hernangomez,27,NOP,2021-08-16,Veteran Contract,Non-Bird Exception,0,2.5,7330743.0,2443581.0,0,0,0,0,1,False,2020-21
+JaVale McGee,33,PHX,2021-08-16,Veteran Contract,MLE,0,1.0,5000000.0,5000000.0,0,0,0,0,1,False,2020-21
+Alec Burks,30,NYK,2021-08-16,Veteran Contract,Cap Room,0,2.5,30038400.0,10012800.0,0,1,0,0,0,False,2020-21
+Udonis Haslem,41,MIA,2021-08-15,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,1,False,2020-21
+Dennis Schroder,27,BOS,2021-08-13,Veteran Contract,Taxpayer-MLE,0,1.0,5890000.0,5890000.0,1,0,0,0,0,False,2020-21
+Enes Kanter Freedom,29,BOS,2021-08-13,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,0,1,False,2020-21
+Didi Louzada,22,NOP,2021-08-13,Veteran Contract,Non-Bird Exception,0,4.0,7686312.0,1921578.0,1,1,0,0,0,False,2020-21
+Alex Len,28,SAC,2021-08-13,Veteran Contract,MLE,0,2.0,7650600.0,3825300.0,0,0,0,0,1,False,2020-21
+Nicolas Batum,32,LAC,2021-08-13,Veteran Contract,Non-Bird Exception,0,1.5,6498559.0,3249280.0,0,1,1,0,0,False,2020-21
+Kawhi Leonard,30,LAC,2021-08-12,Veteran Contract,Early-Bird Exception,0,3.5,176265152.0,44066288.0,0,0,1,0,0,False,2020-21
+Thanasis Antetokounmpo,29,MIL,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.5,3607937.0,1803969.0,0,0,1,0,0,False,2020-21
+Javonte Green,28,CHI,2021-08-11,Veteran Contract,Minimum Salary Exception,0,2.0,3484855.0,1742428.0,0,0,1,0,0,False,2020-21
+Isaac Bonga,21,TOR,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,1729217.0,1729217.0,1,0,1,0,0,False,2020-21
+Andre Iguodala,37,GSW,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,1,1,0,0,False,2020-21
+Elfrid Payton,27,PHX,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,1,0,0,0,0,False,2020-21
+Cory Joseph,29,DET,2021-08-11,Veteran Contract,Room-MLE,0,1.5,10065500.0,5032750.0,1,1,0,0,0,False,2020-21
+Rodney McGruder,30,ATL,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,1939350.0,1939350.0,0,1,0,0,0,False,2020-21
+Kemba Walker,31,NYK,2021-08-11,Veteran Contract,Cap Room,0,2.0,17894491.0,8947246.0,1,0,0,0,0,False,2020-21
+Tony Bradley,23,CHI,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.5,3825574.0,1912787.0,0,0,0,0,1,False,2020-21
+DeMar DeRozan,32,SAS,2021-08-11,Veteran Contract,Bird Exception,0,3.0,81900000.0,27300000.0,0,1,1,0,0,False,2020-21
+Tony Snell,29,POR,2021-08-11,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,0,1,1,0,0,False,2020-21
+Zach Collins,23,SAS,2021-08-11,Veteran Contract,Cap Room,0,3.0,22050000.0,7350000.0,0,0,0,1,1,False,2020-21
+Jeff Green,34,DEN,2021-08-11,Veteran Contract,MLE,0,1.5,10000000.0,5000000.0,0,0,1,1,0,False,2020-21
+Will Barton,30,DEN,2021-08-11,Veteran Contract,Bird Exception,0,2.0,32000000.0,16000000.0,0,1,1,0,0,False,2020-21
+Mike Muscala,30,OKC,2021-08-11,Veteran Contract,MLE,0,1.5,7000000.0,3500000.0,0,0,0,1,1,False,2020-21
+Alex Caruso,27,CHI,2021-08-10,Veteran Contract,MLE,0,4.0,36980000.0,9245000.0,1,1,0,0,0,False,2020-21
+Reggie Jackson,31,LAC,2021-08-10,Veteran Contract,Early-Bird Exception,0,2.0,21599760.0,10799880.0,1,0,0,0,0,False,2020-21
+Luka Doncic,22,DAL,2021-08-10,Designated Rookie Scale Extension,Bird Exception,1,4.5,215159700.0,43031940.0,1,1,0,0,0,False,2020-21
+Patty Mills,32,BKN,2021-08-10,Veteran Contract,MLE,0,1.5,12074500.0,6037250.0,1,0,0,0,0,False,2020-21
+Tim Hardaway Jr.,29,DAL,2021-08-10,Veteran Contract,Bird Exception,0,4.0,75000000.0,18750000.0,0,1,1,0,0,False,2020-21
+Frank Kaminsky,28,PHX,2021-08-09,Veteran Contract,Minimum Salary Exception,0,1.0,2089448.0,2089448.0,0,0,0,1,1,False,2020-21
+Boban Marjanovic,32,DAL,2021-08-09,Veteran Contract,Early-Bird Exception,0,2.0,7000000.0,3500000.0,0,0,0,0,1,False,2020-21
+Furkan Korkmaz,24,PHI,2021-08-09,Veteran Contract,Bird Exception,0,3.0,15000000.0,5000000.0,0,1,0,0,0,False,2020-21
+Sterling Brown,26,DAL,2021-08-09,Veteran Contract,Biannual Exception,0,2.0,6000000.0,3000000.0,0,1,1,0,0,False,2020-21
+Nerlens Noel,27,NYK,2021-08-09,Veteran Contract,Cap Room,0,2.5,31878000.0,10626000.0,0,0,0,1,1,False,2020-21
+David Nwaba,28,HOU,2021-08-09,Veteran Contract,Early-Bird Exception,0,2.5,15066000.0,5022000.0,0,1,1,0,0,False,2020-21
+Blake Griffin,32,BKN,2021-08-09,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,0,0,1,0,False,2020-21
+Gorgui Dieng,31,ATL,2021-08-09,Veteran Contract,MLE,0,1.0,4000000.0,4000000.0,0,0,0,1,1,False,2020-21
+Bruce Brown Jr.,24,BKN,2021-08-08,Veteran Contract,Bird Exception,0,1.0,4736102.0,4736102.0,0,1,0,0,0,False,2020-21
+DeAndre' Bembry,27,BKN,2021-08-08,Veteran Contract,Minimum Salary Exception,0,1.0,1939350.0,1939350.0,0,1,1,0,0,False,2020-21
+Lonzo Ball,23,NOP,2021-08-08,Veteran Contract,Bird Exception,0,3.5,84000000.0,21000000.0,1,0,0,0,0,False,2020-21
+Garrett Temple,35,CHI,2021-08-08,Veteran Contract,Bird Exception,0,3.0,15466500.0,5155500.0,0,1,1,0,0,False,2020-21
+Gary Trent Jr.,22,TOR,2021-08-08,Veteran Contract,Bird Exception,0,2.5,52590000.0,17530000.0,0,1,0,0,0,False,2020-21
+Doug McDermott,29,IND,2021-08-07,Veteran Contract,Bird Exception,0,3.0,42000000.0,14000000.0,0,0,1,1,0,False,2020-21
+Daniel Theis,29,CHI,2021-08-07,Veteran Contract,Bird Exception,0,3.5,35605510.0,8901378.0,0,0,0,0,1,False,2020-21
+P.J. Tucker,36,MIA,2021-08-07,Veteran Contract,MLE,0,1.5,14350000.0,7175000.0,0,1,1,1,0,False,2020-21
+Ish Smith,33,CHA,2021-08-07,Veteran Contract,Room-MLE,0,2.0,9225000.0,4612500.0,1,0,0,0,0,False,2020-21
+Kelly Oubre Jr.,25,CHA,2021-08-07,Veteran Contract,Cap Room,0,2.0,24600000.0,12300000.0,0,0,1,0,0,False,2020-21
+Victor Oladipo,29,MIA,2021-08-07,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,1,1,0,0,0,False,2020-21
+Danny Green,34,PHI,2021-08-07,Veteran Contract,Bird Exception,0,2.0,20000000.0,10000000.0,0,1,0,0,0,False,2020-21
+Justise Winslow,25,LAC,2021-08-07,Veteran Contract,Taxpayer-MLE,0,2.0,8000000.0,4000000.0,0,0,1,1,0,False,2020-21
+Wayne Ellington,33,LAL,2021-08-07,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,1,0,0,0,False,2020-21
+Maurice Harkless,28,SAC,2021-08-06,Veteran Contract,Non-Bird Exception,0,2.0,8912580.0,4456290.0,0,0,1,0,0,False,2020-21
+Frank Jackson,23,DET,2021-08-06,Veteran Contract,Cap Room,0,1.5,6150000.0,3075000.0,1,0,0,0,0,False,2020-21
+Sam Dekker,27,TOR,2021-08-06,Veteran Contract,Minimum Salary Exception,0,1.0,1789256.0,1789256.0,0,0,1,1,0,False,2020-21
+Devonte' Graham,26,CHA,2021-08-06,Veteran Contract,Bird Exception,0,4.0,47300000.0,11825000.0,1,0,0,0,0,False,2020-21
+Spencer Dinwiddie,28,BKN,2021-08-06,Veteran Contract,Bird Exception,0,3.0,61714284.0,20571428.0,1,1,0,0,0,False,2020-21
+Cam Payne,26,PHX,2021-08-06,Veteran Contract,Early-Bird Exception,0,3.0,19000000.0,6333333.0,1,0,0,0,0,False,2020-21
+Georges Niang,28,DET,2021-08-06,Veteran Contract,MLE,0,2.0,6765000.0,3382500.0,0,0,0,1,0,False,2020-21
+Abdel Nader,27,PHX,2021-08-06,Veteran Contract,Bird Exception,0,1.5,4160000.0,2080000.0,0,0,1,0,0,False,2020-21
+T.J. McConnell,29,IND,2021-08-06,Veteran Contract,Early-Bird Exception,0,4.0,35200000.0,8800000.0,1,0,0,0,0,False,2020-21
+Saben Lee,22,DET,2021-08-06,Veteran Contract,Cap Room,0,2.5,5143840.0,1714613.0,1,0,0,0,0,False,2020-21
+Richaun Holmes,27,SAC,2021-08-06,Veteran Contract,Early-Bird Exception,0,3.5,46522560.0,11630640.0,0,0,0,1,1,False,2020-21
+John Collins,23,ATL,2021-08-06,Veteran Contract,Bird Exception,0,4.5,125000000.0,25000000.0,0,0,0,1,0,False,2020-21
+Khem Birch,28,TOR,2021-08-06,Veteran Contract,MLE,0,3.0,20002500.0,6667500.0,0,0,0,0,1,False,2020-21
+Trevor Ariza,36,LAL,2021-08-06,Veteran Contract,Minimum Salary Exception,0,1.0,2641691.0,2641691.0,0,1,1,0,0,False,2020-21
+Kendrick Nunn,26,LAL,2021-08-06,Veteran Contract,Taxpayer-MLE,0,1.5,10250000.0,5125000.0,0,1,0,0,0,False,2020-21
+Trey Lyles,25,DET,2021-08-06,Veteran Contract,Cap Room,0,1.5,5125000.0,2562500.0,0,0,0,1,0,False,2020-21
+George Hill,35,MIL,2021-08-06,Veteran Contract,MLE,0,2.0,8000000.0,4000000.0,1,0,0,0,0,False,2020-21
+Hassan Whiteside,32,UTA,2021-08-06,Veteran Contract,Minimum Salary Exception,0,1.0,2401537.0,2401537.0,0,0,0,0,1,False,2020-21
+Ömer Yurtseven,23,MIA,2021-08-06,Veteran Contract,Minimum Salary Exception,0,2.0,3241703.0,1620852.0,0,0,0,0,1,False,2020-21
+Trae Young,22,ATL,2021-08-06,Designated Rookie Scale Extension,Bird Exception,1,4.5,215159700.0,43031940.0,1,0,0,0,0,False,2020-21
+Lou Williams,34,ATL,2021-08-06,Veteran Contract,Bird Exception,0,1.0,5000000.0,5000000.0,1,1,0,0,0,False,2020-21
+Max Strus,25,MIA,2021-08-06,Veteran Contract,Minimum Salary Exception,0,2.0,3484855.0,1742428.0,0,1,1,0,0,False,2020-21
+Gabe Vincent,25,MIA,2021-08-06,Veteran Contract,Minimum Salary Exception,0,2.0,3484855.0,1742428.0,1,0,0,0,0,False,2020-21
+Norman Powell,28,POR,2021-08-06,Veteran Contract,Bird Exception,0,5.0,90000000.0,18000000.0,0,1,0,0,0,False,2020-21
+Bobby Portis,26,MIL,2021-08-06,Veteran Contract,Non-Bird Exception,0,1.5,8912580.0,4456290.0,0,0,0,1,1,False,2020-21
+Duncan Robinson,27,MIA,2021-08-05,Veteran Contract,Bird Exception,0,4.5,90000000.0,18000000.0,0,0,1,1,0,False,2020-21
+Solomon Hill,30,ATL,2021-08-05,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,0,0,1,0,0,False,2020-21
+Raul Neto,29,WAS,2021-08-04,Veteran Contract,Minimum Salary Exception,0,1.0,2089448.0,2089448.0,1,0,0,0,0,False,2020-21
+Cody Zeller,28,POR,2021-08-04,Veteran Contract,Minimum Salary Exception,0,1.0,2389641.0,2389641.0,0,0,0,0,1,False,2020-21
+Andre Drummond,27,PHI,2021-08-04,Veteran Contract,Minimum Salary Exception,0,1.0,2401537.0,2401537.0,0,0,0,0,1,False,2020-21
+Jarrell Brantley,25,UTA,2021-07-30,Veteran Contract,Minimum Salary Exception,0,1.0,1669178.0,1669178.0,0,0,0,1,0,False,2020-21
+Gary Payton II,28,GSW,2021-05-16,Veteran Contract,Minimum Salary Exception,0,2.0,1988909.0,994455.0,1,0,0,0,0,False,2020-21
+Charlie Brown Jr.,24,OKC,2021-05-15,Veteran Contract,Minimum Salary Exception,0,2.0,1721397.0,860699.0,0,1,0,0,0,False,2020-21
+Anderson Varejao,38,CLE,2021-05-14,Veteran Contract,Minimum Salary / Hardship Combined Exception,0,1.0,52700.0,52700.0,0,0,0,1,1,False,2020-21
+Khyri Thomas,25,HOU,2021-05-14,Veteran Contract,MLE,0,3.5,6088954.0,1522239.0,0,1,0,0,0,False,2020-21
+Cameron Reynolds,26,HOU,2021-05-14,Veteran Contract,Minimum Salary Exception,0,1.0,33299.0,33299.0,0,1,0,0,0,False,2020-21
+Mike James,30,BKN,2021-05-13,Veteran Contract,Minimum Salary Exception,0,1.0,39608.0,39608.0,1,0,0,0,0,False,2020-21
+Juan Toscano-Anderson,28,GSW,2021-05-13,Veteran Contract,Taxpayer-MLE,0,2.0,2059888.0,1029944.0,0,0,1,0,0,False,2020-21
+Ignas Brazdeikis,22,ORL,2021-05-12,Veteran Contract,Minimum Salary Exception,0,1.0,49510.0,49510.0,0,0,1,0,0,False,2020-21
+Donta Hall,23,ORL,2021-05-09,Veteran Contract,Minimum Salary / Hardship Combined Exception,0,1.0,79216.0,79216.0,0,0,0,1,0,False,2020-21
+Anthony Tolliver,35,PHI,2021-05-02,Veteran Contract,Minimum Salary Exception,0,2.0,2956493.0,1478247.0,0,0,1,1,0,False,2020-21
+Mfiondu Kabengele,23,CLE,2021-05-01,Veteran Contract,MLE,0,3.0,3706764.0,1235588.0,0,0,0,0,1,False,2020-21
+Austin Rivers,28,DEN,2021-04-30,Veteran Contract,Minimum Salary Exception,0,1.0,270142.0,270142.0,1,1,0,0,0,False,2020-21
+Yogi Ferrell,27,LAC,2021-04-29,Veteran Contract,Minimum Salary Exception,0,2.0,2191180.0,1095590.0,1,1,0,0,0,False,2020-21
+Rondae Hollis-Jefferson,26,POR,2021-04-28,Veteran Contract,Minimum Salary Exception,0,1.0,245031.0,245031.0,0,0,1,0,0,False,2020-21
+Damian Jones,25,SAC,2021-04-27,Veteran Contract,Minimum Salary Exception,0,2.0,2214976.0,1107488.0,0,0,0,0,1,False,2020-21
+Chimezie Metu,24,SAC,2021-04-27,Veteran Contract,MLE,0,3.0,4373656.0,1457885.0,0,0,0,1,0,False,2020-21
+Moritz Wagner,24,ORL,2021-04-27,Veteran Contract,Minimum Salary Exception,0,1.0,221995.0,221995.0,0,0,0,0,1,False,2020-21
+DeMarcus Cousins,30,LAC,2021-04-26,Veteran Contract,Minimum Salary Exception,0,1.0,368903.0,368903.0,0,0,0,0,1,False,2020-21
+Tim Frazier,30,MEM,2021-04-24,Veteran Contract,Minimum Salary Exception,0,1.0,319573.0,319573.0,1,0,0,0,0,False,2020-21
+Norvel Pelle,28,NYK,2021-04-22,Veteran Contract,Cap Room,0,2.5,4048331.0,1349444.0,0,0,0,0,1,False,2020-21
+Oshae Brissett,22,IND,2021-04-21,Veteran Contract,MLE,0,2.5,4305784.0,1435261.0,0,0,1,1,0,False,2020-21
+Yuta Watanabe,26,TOR,2021-04-18,Veteran Contract,Minimum Salary Exception,0,2.0,2084689.0,1042345.0,0,0,1,0,0,False,2020-21
+Jabari Parker,26,BOS,2021-04-16,Veteran Contract,Minimum Salary Exception,0,2.0,2713763.0,1356882.0,0,0,0,1,0,False,2020-21
+Alize Johnson,24,BKN,2021-04-11,Veteran Contract,Taxpayer-MLE,0,3.0,4073247.0,1357749.0,0,0,1,1,0,False,2020-21
+Khem Birch,28,TOR,2021-04-10,Veteran Contract,Minimum Salary Exception,0,1.0,425463.0,425463.0,0,0,0,0,1,False,2020-21
+Dewayne Dedmon,31,MIA,2021-04-08,Veteran Contract,Minimum Salary Exception,0,1.0,580811.0,580811.0,0,0,0,0,1,False,2020-21
+Tyler Cook,23,DET,2021-04-07,Veteran Contract,Minimum Salary Exception,0,2.0,2097674.0,1048837.0,0,0,0,1,0,False,2020-21
+Ben McLemore,28,LAL,2021-04-06,Veteran Contract,Minimum Salary Exception,0,1.0,610596.0,610596.0,0,1,0,0,0,False,2020-21
+Jrue Holiday,30,MIL,2021-04-04,Veteran Extension,Bird Exception,1,3.5,158665573.0,39666393.0,1,1,0,0,0,False,2020-21
+Jeff Teague,32,MIL,2021-04-01,Veteran Contract,Minimum Salary Exception,0,1.0,808073.0,808073.0,1,0,0,0,0,False,2020-21
+Gorgui Dieng,31,SAS,2021-03-29,Veteran Contract,MLE,0,1.0,1000000.0,1000000.0,0,0,0,1,1,False,2020-21
+Moses Brown,21,OKC,2021-03-28,Veteran Contract,MLE,0,3.5,6796049.0,1699012.0,0,0,0,0,1,False,2020-21
+Andre Drummond,27,LAL,2021-03-28,Veteran Contract,Minimum Salary Exception,0,1.0,794536.0,794536.0,0,0,0,0,1,False,2020-21
+LaMarcus Aldridge,35,BKN,2021-03-28,Veteran Contract,Minimum Salary Exception,0,1.0,878340.0,878340.0,0,0,0,1,1,False,2020-21
+Ersan Ilyasova,33,UTA,2021-03-10,Veteran Contract,Minimum Salary Exception,0,1.0,1194542.0,1194542.0,0,0,0,1,0,False,2020-21
+Blake Griffin,31,BKN,2021-03-08,Veteran Contract,Minimum Salary Exception,0,1.0,1229676.0,1229676.0,0,0,0,1,0,False,2020-21
+André Roberson,29,BKN,2021-02-16,Veteran Contract,Minimum Salary Exception,0,1.0,1340333.0,1340333.0,0,1,1,0,0,False,2020-21
+Noah Vonleh,25,BKN,2021-02-08,Veteran Contract,Minimum Salary Exception,0,1.0,1361659.0,1361659.0,0,0,0,1,1,False,2020-21
+Iman Shumpert,30,BKN,2021-01-30,Veteran Contract,Minimum Salary Exception,0,1.0,1708770.0,1708770.0,1,1,0,0,0,False,2020-21
+Norvel Pelle,27,BKN,2021-01-28,Veteran Contract,Minimum Salary Exception,0,2.0,2780915.0,1390458.0,0,0,0,0,1,False,2020-21
+Alex Len,27,WAS,2021-01-23,Veteran Contract,Minimum Salary Exception,0,1.0,1697755.0,1697755.0,0,0,0,0,1,False,2020-21
+Taj Gibson,35,NYK,2021-01-07,Veteran Contract,Minimum Salary Exception,0,1.0,2283684.0,2283684.0,0,0,0,1,1,False,2020-21
