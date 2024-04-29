@@ -1,0 +1,202 @@
+header {
+    background-color: #242C44;
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    align-content: space-between;
+}
+
+body {
+    background-color: #DCE3ED;
+    margin: 0;
+}
+
+p {
+    color: #242C44;
+    font-family: "Raleway", sans-serif;
+    display: inline-block;
+    color: #242C44;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+}
+
+h1 {
+    color: #DCE3ED;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    margin: 0;
+    text-align: center;
+}
+
+h2 {
+    color: #242C44;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 30px;
+    margin: 10px;
+}
+
+h3 {
+    font-size: 25px;
+    color: #242C44;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    text-align: center;
+}
+
+div {
+    display: inline-block;
+}
+
+.headerDiv {
+    width: 450px;
+    display: inline-block;
+    text-align: center;
+}
+
+.bodyDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.left {
+    width: 47%;
+}
+
+.right {
+    width: 47%;
+}
+
+.statsList {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 50%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.stat {
+    color: #242C44;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 15px;
+    margin: 0;
+    text-align: center;
+    width: 60px;
+}
+
+.playerPhoto {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+table, th, td {
+    border: 1px solid #242C44;
+    border-collapse: collapse;
+    color: #242C44;
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 16px;
+    padding: 8px;
+    background-color: white;
+}
+
+.statsAndPhoto {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+input[type=text] {
+    padding: 6px;
+    border: none;
+    font-size: 18px;
+}
+
+input[type=text]:focus {
+    border: none;
+    background-color: #78A7C8;
+    color: #242C44;
+}
+
+.injuryDiv {
+    width: 100%
+}
+
+.injuryGame {
+    width: 100%;
+    background-color: white;
+    height: 50px;
+    display: flex;
+    margin: 5px;
+    padding: 15px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.predictions {
+    width: 50%;
+    display: flex;
+    margin: 5px;
+    padding: 15px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flexbox {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bigNum {
+    background-color: white;
+    text-align: center;
+}
+
+.bigP {
+    font-size: 20px;
+}
+
+.bigPU {
+    font-size: 20px;
+}
+
+.bigPU:hover {
+    color: #78A7C8;
+    cursor:pointer;
+}
+
+.bigNum {
+    width: 300px;
+}
